@@ -58,9 +58,9 @@
       "TP Hit?": "",
       "RecommendedAction": "Review",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger": "Earnings ≤7d",
-      "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "Guardrail policy",
+      "Exit Trigger": "",
+      "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "",
+      "Notes": "Archived — sold Sep 7, 2025",
       "Ticker UUID": "TCKR-dde97851"
     },
     {
@@ -227,8 +227,8 @@
       "RecommendedAction": "Hold",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
       "Exit Trigger": "",
-      "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "Hold",
-      "Notes": "Archived — sold Sep 5, 2025",
+      "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "",
+      "Notes": "Archived — sold Sep 7, 2025",
       "Ticker UUID": "TCKR-fdd77d90"
     },
     {
