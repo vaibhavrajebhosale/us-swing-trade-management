@@ -79,9 +79,9 @@
       "TP Hit?": "",
       "RecommendedAction": "ExitNow",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger": "Over Max Window",
+      "Exit Trigger": "DaysHeld>40",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "Day 52, ER Aug 20 passed, -15.0%",
+      "Notes": "Auto-flagged Sep 8, 2025: held 79d, beyond 40d window",
       "Ticker UUID": "TCKR-7fe951d1"
     },
     {
@@ -100,9 +100,9 @@
       "TP Hit?": "",
       "RecommendedAction": "ExitNow",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger": "ATR stop + MACD roll, ER passed",
+      "Exit Trigger": "DaysHeld>40",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "Day 59, -11.8%",
+      "Notes": "Auto-flagged Sep 8, 2025: held 86d, beyond 40d window",
       "Ticker UUID": "TCKR-7625a0ed"
     },
     {
@@ -142,9 +142,9 @@
       "TP Hit?": "",
       "RecommendedAction": "ExitNow",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger": "Over Max Window",
+      "Exit Trigger": "DaysHeld>40",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "Day 33, ER Aug 21 passed, -21.7%",
+      "Notes": "Auto-flagged Sep 8, 2025: held 60d, beyond 40d window",
       "Ticker UUID": "TCKR-77136431"
     },
     {
