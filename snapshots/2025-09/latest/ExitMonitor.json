@@ -377,6 +377,27 @@
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "",
       "Notes": "Purged ghost row Sep 7, 2025",
       "Ticker UUID": ""
+    },
+    {
+      "Ticker": "(ghost_row_cleanup_2)",
+      "Link: Holdings Row": "",
+      "Entry Date": "",
+      "Days Held": "",
+      "Return % (Live)": "",
+      "Planned Sell Date": "",
+      "Earnings Date (Next)": "",
+      "BufferDays": "",
+      "LastSafeHoldDate": "",
+      "RSI Exit Signal (>65?)": "",
+      "MACD Rollover?": "",
+      "ATR Stop Triggered?": "",
+      "TP Hit?": "",
+      "RecommendedAction": "",
+      "RuleSet (Pre-Oct|Post-Oct)": "",
+      "Exit Trigger": "",
+      "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "",
+      "Notes": "PURGED Sep 7, 2025",
+      "Ticker UUID": ""
     }
   ]
 }

@@ -70,8 +70,8 @@
       "LTH_CarveQty": "",
       "LTH_CarveDate": "",
       "Entry Tag": "",
-      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Sold",
-      "Notes_Audit": "Archived; moved to ClosedTrades Sep 7, 2025",
+      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "",
+      "Notes_Audit": "PURGED Sep 7, 2025",
       "Ticker UUID": "TCKR-dde97851",
       "LTH_CarveDate (ISO8601)": ""
     },
@@ -270,8 +270,8 @@
       "LTH_CarveQty": "",
       "LTH_CarveDate": "",
       "Entry Tag": "",
-      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Sold",
-      "Notes_Audit": "Archived; moved to ClosedTrades Sep 7, 2025",
+      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "",
+      "Notes_Audit": "PURGED Sep 7, 2025",
       "Ticker UUID": "TCKR-fdd77d90",
       "LTH_CarveDate (ISO8601)": ""
     },
