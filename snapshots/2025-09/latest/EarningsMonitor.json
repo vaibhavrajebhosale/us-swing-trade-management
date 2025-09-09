@@ -743,7 +743,7 @@
     {
       "Ticker": "AFL",
       "Exchange": "NYSE",
-      "Next Earnings Date": "2025-10-29T05:00:00.000Z",
+      "Next Earnings Date": "2025-11-04T06:00:00.000Z",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
       "Source": "",
@@ -758,7 +758,7 @@
       "WeekendAdjust (Y/N)": "",
       "Notes": "",
       "Composite Key (Ticker|Exchange)": "AFL|NYSE",
-      "LastCheckedAt (ISO8601)": "2025-08-31T19:26:02.331Z"
+      "LastCheckedAt (ISO8601)": "2025-09-09T14:01:13.952Z"
     },
     {
       "Ticker": "KMB",
@@ -1043,7 +1043,7 @@
     {
       "Ticker": "SJM",
       "Exchange": "NYSE",
-      "Next Earnings Date": "2025-11-28T06:00:00.000Z",
+      "Next Earnings Date": "2025-11-25T06:00:00.000Z",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
       "Source": "",
@@ -1058,7 +1058,7 @@
       "WeekendAdjust (Y/N)": "",
       "Notes": "",
       "Composite Key (Ticker|Exchange)": "SJM|NYSE",
-      "LastCheckedAt (ISO8601)": "2025-08-31T19:26:00.172Z"
+      "LastCheckedAt (ISO8601)": "2025-09-09T14:01:12.839Z"
     },
     {
       "Ticker": "ERIC",
@@ -1078,7 +1078,7 @@
       "WeekendAdjust (Y/N)": "",
       "Notes": "",
       "Composite Key (Ticker|Exchange)": "ERIC|NASDAQ",
-      "LastCheckedAt (ISO8601)": "2025-08-31T19:25:59.803Z"
+      "LastCheckedAt (ISO8601)": "2025-09-09T14:01:10.517Z"
     },
     {
       "Ticker": "PFS",
@@ -1439,6 +1439,106 @@
       "Notes": "",
       "Composite Key (Ticker|Exchange)": "ORCL|NYSE",
       "LastCheckedAt (ISO8601)": "2025-08-31T22:09:52.538Z"
+    },
+    {
+      "Ticker": "",
+      "Exchange": "",
+      "Next Earnings Date": "2025-11-20T06:00:00.000Z",
+      "NextEarningsTime (BMO/AMC/TBD)": "",
+      "Status (Confirmed|Estimated)": "",
+      "Source": "",
+      "SourceURL": "",
+      "Prior Known Date": "",
+      "Delta (Days)": "",
+      "Delta Flag": "",
+      "Days Until ER": "",
+      "≤ 7d Risk?": "",
+      "≥ 35d Entry Window?": "",
+      "RevisionCount": "",
+      "WeekendAdjust (Y/N)": "",
+      "Notes": "",
+      "Composite Key (Ticker|Exchange)": "CPRT|NASDAQ",
+      "LastCheckedAt (ISO8601)": "2025-09-09T14:01:11.034Z"
+    },
+    {
+      "Ticker": "",
+      "Exchange": "",
+      "Next Earnings Date": "2025-11-12T06:00:00.000Z",
+      "NextEarningsTime (BMO/AMC/TBD)": "",
+      "Status (Confirmed|Estimated)": "",
+      "Source": "",
+      "SourceURL": "",
+      "Prior Known Date": "",
+      "Delta (Days)": "",
+      "Delta Flag": "",
+      "Days Until ER": "",
+      "≤ 7d Risk?": "",
+      "≥ 35d Entry Window?": "",
+      "RevisionCount": "",
+      "WeekendAdjust (Y/N)": "",
+      "Notes": "",
+      "Composite Key (Ticker|Exchange)": "BBWI|NYSE",
+      "LastCheckedAt (ISO8601)": "2025-09-09T14:01:12.336Z"
+    },
+    {
+      "Ticker": "",
+      "Exchange": "",
+      "Next Earnings Date": "2025-09-09T05:00:00.000Z",
+      "NextEarningsTime (BMO/AMC/TBD)": "",
+      "Status (Confirmed|Estimated)": "",
+      "Source": "",
+      "SourceURL": "",
+      "Prior Known Date": "",
+      "Delta (Days)": "",
+      "Delta Flag": "",
+      "Days Until ER": "",
+      "≤ 7d Risk?": "",
+      "≥ 35d Entry Window?": "",
+      "RevisionCount": "",
+      "WeekendAdjust (Y/N)": "",
+      "Notes": "",
+      "Composite Key (Ticker|Exchange)": "GME|NYSE",
+      "LastCheckedAt (ISO8601)": "2025-09-09T14:01:13.239Z"
+    },
+    {
+      "Ticker": "",
+      "Exchange": "",
+      "Next Earnings Date": "2025-09-09T05:00:00.000Z",
+      "NextEarningsTime (BMO/AMC/TBD)": "",
+      "Status (Confirmed|Estimated)": "",
+      "Source": "",
+      "SourceURL": "",
+      "Prior Known Date": "",
+      "Delta (Days)": "",
+      "Delta Flag": "",
+      "Days Until ER": "",
+      "≤ 7d Risk?": "",
+      "≥ 35d Entry Window?": "",
+      "RevisionCount": "",
+      "WeekendAdjust (Y/N)": "",
+      "Notes": "",
+      "Composite Key (Ticker|Exchange)": "RBRK|NASDAQ",
+      "LastCheckedAt (ISO8601)": "2025-09-09T14:01:13.686Z"
+    },
+    {
+      "Ticker": "",
+      "Exchange": "",
+      "Next Earnings Date": "2025-11-04T06:00:00.000Z",
+      "NextEarningsTime (BMO/AMC/TBD)": "",
+      "Status (Confirmed|Estimated)": "",
+      "Source": "",
+      "SourceURL": "",
+      "Prior Known Date": "",
+      "Delta (Days)": "",
+      "Delta Flag": "",
+      "Days Until ER": "",
+      "≤ 7d Risk?": "",
+      "≥ 35d Entry Window?": "",
+      "RevisionCount": "",
+      "WeekendAdjust (Y/N)": "",
+      "Notes": "",
+      "Composite Key (Ticker|Exchange)": "SMCI|NASDAQ",
+      "LastCheckedAt (ISO8601)": "2025-09-09T14:01:14.201Z"
     }
   ]
 }
