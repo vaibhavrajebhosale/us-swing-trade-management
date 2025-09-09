@@ -37,9 +37,9 @@
       "TP Hit?": "",
       "RecommendedAction": "Review",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger": "Over Max Window",
-      "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "Day 48, ER Aug 27 passed, -15.8%",
+      "Exit Trigger": "",
+      "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "",
+      "Notes": "Removed from monitor — trade closed Sep 8, 2025.",
       "Ticker UUID": "TCKR-a2a09b36"
     },
     {
@@ -164,8 +164,8 @@
       "RecommendedAction": "Review",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
       "Exit Trigger": "",
-      "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "Review",
-      "Notes": "Scaffolded by repair; triggers to be filled by scanner",
+      "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "",
+      "Notes": "Removed from monitor — trade closed Sep 8, 2025.",
       "Ticker UUID": "TCKR-01f4ad68"
     },
     {
@@ -397,6 +397,27 @@
       "Exit Trigger": "",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "",
       "Notes": "PURGED Sep 7, 2025",
+      "Ticker UUID": ""
+    },
+    {
+      "Ticker": "PLTR",
+      "Link: Holdings Row": "",
+      "Entry Date": "",
+      "Days Held": "",
+      "Return % (Live)": "",
+      "Planned Sell Date": "",
+      "Earnings Date (Next)": "",
+      "BufferDays": "",
+      "LastSafeHoldDate": "",
+      "RSI Exit Signal (>65?)": "",
+      "MACD Rollover?": "",
+      "ATR Stop Triggered?": "",
+      "TP Hit?": "",
+      "RecommendedAction": "",
+      "RuleSet (Pre-Oct|Post-Oct)": "",
+      "Exit Trigger": "New position (watch ER buffer, ATR stops)",
+      "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "Hold",
+      "Notes": "Entered Sep 9, 2025 at $159",
       "Ticker UUID": ""
     }
   ]
