@@ -449,6 +449,31 @@
       "Notes_Audit": "Bought Sep 9, 2025 at $159",
       "Ticker UUID": "",
       "LTH_CarveDate (ISO8601)": ""
+    },
+    {
+      "Ticker": "GME",
+      "PositionID": "GME-20250729",
+      "Shares": "",
+      "Entry Date": "",
+      "Entry Price": "",
+      "Current Price": "",
+      "Return %": "",
+      "ATR(20)": "",
+      "Earnings Date": "",
+      "Planned Sell Date": "",
+      "Days Held": "",
+      "LastSafeHoldDate": "",
+      "ExitTriggers (DayWindow,RSI>65,MACD_Roll,StopHit,Earnings≤7d)": "",
+      "StopRule (-10%|2.5×ATR20)": "",
+      "TargetRule (+5–10%)": "",
+      "LTH_Eligible (Y/N)": "",
+      "LTH_CarveQty": "",
+      "LTH_CarveDate": "",
+      "Entry Tag": "",
+      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Sold",
+      "Notes_Audit": "Closed Sep 9, 2025 at $24.69, +10% gain (~43d hold)",
+      "Ticker UUID": "",
+      "LTH_CarveDate (ISO8601)": ""
     }
   ]
 }

@@ -2068,7 +2068,7 @@
     {
       "Ticker": "GME",
       "Ticker UUID": "c34ffc36-e5db-42c3-b832-31f872b44074",
-      "Status (Active|NextCycle|Excluded|Archived)": "Active",
+      "Status (Active|NextCycle|Excluded|Archived)": "Archived",
       "WatchlistPriority (1-5)": 3,
       "StrongEarningsHistory (Y/N)": "N",
       "RSI": 42.7523,
@@ -2094,7 +2094,7 @@
       "Cycles Traded (Live)": "",
       "Last Traded Date": "",
       "DNT (Y/N)": "",
-      "Notes / Warnings": "ER date missing",
+      "Notes / Warnings": "Closed trade Sep 9, 2025 at $24.69 with +10% gain.",
       "AddedAt (ISO)": "2025-08-18 22:09:09 CT",
       "LastReviewedAt (ISO)": "2025-08-21 21:00:55 CT",
       "LastScanAt (ISO8601)": "",

@@ -184,9 +184,9 @@
       "TP Hit?": "",
       "RecommendedAction": "Review",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger": "Earnings ≤7d",
-      "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "ER Sep 5 risk",
+      "Exit Trigger": "",
+      "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "",
+      "Notes": "Removed from monitor — trade closed Sep 9, 2025 at $24.69 (+10% gain).",
       "Ticker UUID": "TCKR-8ded85bd"
     },
     {
