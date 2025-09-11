@@ -45,7 +45,7 @@
       "LTH_CarveQty": "",
       "LTH_CarveDate": "",
       "Entry Tag": "",
-      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Ready",
+      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Sold",
       "Notes_Audit": "Imported",
       "Ticker UUID": "TCKR-a2a09b36",
       "LTH_CarveDate (ISO8601)": ""
@@ -70,7 +70,7 @@
       "LTH_CarveQty": "",
       "LTH_CarveDate": "",
       "Entry Tag": "",
-      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "",
+      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Sold",
       "Notes_Audit": "PURGED Sep 7, 2025",
       "Ticker UUID": "TCKR-dde97851",
       "LTH_CarveDate (ISO8601)": ""
@@ -195,7 +195,7 @@
       "LTH_CarveQty": "",
       "LTH_CarveDate": "",
       "Entry Tag": "",
-      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Hold",
+      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Sold",
       "Notes_Audit": "Imported",
       "Ticker UUID": "TCKR-01f4ad68",
       "LTH_CarveDate (ISO8601)": ""
@@ -220,7 +220,7 @@
       "LTH_CarveQty": "",
       "LTH_CarveDate": "",
       "Entry Tag": "",
-      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Hold",
+      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Sold",
       "Notes_Audit": "Imported",
       "Ticker UUID": "TCKR-8ded85bd",
       "LTH_CarveDate (ISO8601)": ""
@@ -472,6 +472,31 @@
       "Entry Tag": "",
       "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Sold",
       "Notes_Audit": "Closed Sep 9, 2025 at $24.69, +10% gain (~43d hold)",
+      "Ticker UUID": "",
+      "LTH_CarveDate (ISO8601)": ""
+    },
+    {
+      "Ticker": "CFG",
+      "PositionID": "CFG-20250715",
+      "Shares": "",
+      "Entry Date": "",
+      "Entry Price": "",
+      "Current Price": "",
+      "Return %": "",
+      "ATR(20)": "",
+      "Earnings Date": "",
+      "Planned Sell Date": "",
+      "Days Held": "",
+      "LastSafeHoldDate": "",
+      "ExitTriggers (DayWindow,RSI>65,MACD_Roll,StopHit,Earnings≤7d)": "",
+      "StopRule (-10%|2.5×ATR20)": "",
+      "TargetRule (+5–10%)": "",
+      "LTH_Eligible (Y/N)": "",
+      "LTH_CarveQty": "",
+      "LTH_CarveDate": "",
+      "Entry Tag": "",
+      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Sold",
+      "Notes_Audit": "",
       "Ticker UUID": "",
       "LTH_CarveDate (ISO8601)": ""
     }
