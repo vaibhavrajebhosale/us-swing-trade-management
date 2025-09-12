@@ -1,0 +1,67 @@
+name: Daily Digest (Strategy 4.1)
+
+on:
+  schedule:
+    # Weekdays at 14:30 UTC (e.g. 10:30 ET during EDT) – adjust to taste.
+    - cron: '30 14 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # Optional: change if you want a harsher/looser stale warning
+      STALE_HOURS: '24'
+      # For your CDN branch tag
+      BRANCH_TAG: 'Strategy_4_1'
+      # Optional: Slack webhook (add as repo secret if you want Slack posts)
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install requests python-dateutil
+
+      - name: Build digest
+        run: |
+          python scripts/daily_digest.py > digest.txt
+          echo "---- DIGEST ----"
+          sed -n '1,120p' digest.txt
+
+      - name: Post to GitHub Issue
+        uses: actions/github-script@v7
+        env:
+          ISSUE_NUM: ${{ secrets.DIGEST_ISSUE_NUMBER }}
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('digest.txt', 'utf8');
+            const issue_number = parseInt(process.env.ISSUE_NUM, 10);
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number,
+              body
+            });
+
+      # Optional: also post to Slack if you add SLACK_WEBHOOK_URL secret
+      - name: Post to Slack (optional)
+        if: env.SLACK_WEBHOOK_URL != ''
+        run: |
+          python - << 'PY'
+          import json, os
+          txt = open('digest.txt','r', encoding='utf-8').read()
+          payload = json.dumps({"text": txt})
+          import urllib.request
+          req = urllib.request.Request(os.environ['SLACK_WEBHOOK_URL'],
+                                       data=payload.encode('utf-8'),
+                                       headers={'Content-Type':'application/json'})
+          with urllib.request.urlopen(req) as r: print(r.read().decode())
+          PY
