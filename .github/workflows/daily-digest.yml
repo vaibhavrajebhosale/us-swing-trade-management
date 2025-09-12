@@ -31,7 +31,7 @@ jobs:
 
       - name: Build digest
         run: |
-          python scripts/daily_digest.py > digest.txt
+          python scripts/post_digest.py > digest.txt
           echo "---- DIGEST ----"
           sed -n '1,120p' digest.txt
 
