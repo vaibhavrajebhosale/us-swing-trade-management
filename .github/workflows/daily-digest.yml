@@ -1,37 +1,46 @@
 name: Post Digest (owner-only)
-
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 13 * * 1-5"  # 13:30 UTC on weekdays
+    - cron: "30 13 * * 1-5"
 
 jobs:
   digest:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      issues: write   # <-- needed to create/comment issues
+      issues: write
     env:
-      # OpenAI (optional) – omit any/all to skip posting to the thread
+      BRANCH: Strategy_4_1
+      # Prefer default GITHUB_TOKEN. If your org restricts it, add a classic PAT secret GH_PAT and uncomment next line:
+      # GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+
+      # Optional OpenAI thread posting:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       ASSISTANT_ID:   ${{ secrets.ASSISTANT_ID }}
       THREAD_ID:      ${{ secrets.THREAD_ID }}
 
-      # GitHub Issue logging (optional)
-      # Set ISSUE_NUMBER to append to an existing issue, OR set ISSUE_TITLE to create/find by title.
-      ISSUE_NUMBER:   ${{ vars.DIGEST_ISSUE_NUMBER }}    # optional
-      ISSUE_TITLE:    ${{ vars.DIGEST_ISSUE_TITLE }}     # optional; e.g., "Watchlist Digest — Latest"
+      # Optional issue target:
+      ISSUE_NUMBER:   ${{ vars.DIGEST_ISSUE_NUMBER }}
+      ISSUE_TITLE:    ${{ vars.DIGEST_ISSUE_TITLE }}  # e.g., "Watchlist Digest — Latest"
       ISSUE_LABELS:   digest,automation
 
-      BRANCH:         Strategy_4_1
     steps:
-      - name: Clone repo (no Marketplace actions)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Preflight: show token capabilities
+        run: |
+          set -euo pipefail
+          curl -sS -H "Authorization: token ${GITHUB_TOKEN}" -H "User-Agent: preflight" \
+            "${GITHUB_API_URL:-https://api.github.com}/repos/${GITHUB_REPOSITORY}" | \
+            python3 - <<'PY'
+import json,sys; j=json.load(sys.stdin)
+print("permissions:", j.get("permissions"))
+PY
+
+      - name: Clone repo (native)
         run: |
           set -euo pipefail
           git clone --depth=1 "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" repo
           cd repo
-          test -f scripts/post_digest-owneronly.py || { echo "scripts/post_digest-owneronly.py missing"; exit 1; }
+          test -f scripts/post_digest.py && ENTRY=scripts/post_digest.py || ENTRY=scripts/post_digest-owneronly.py
           python3 --version
-          python3 scripts/post_digest-owneronly.py
+          python3 "$ENTRY"
