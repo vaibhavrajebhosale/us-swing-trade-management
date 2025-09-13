@@ -8,7 +8,7 @@ BRANCH         = os.environ.get("BRANCH", "Strategy_4_1")
 
 if not (OPENAI_API_KEY and ASSISTANT_ID and THREAD_ID):
     print("Missing one or more env vars: OPENAI_API_KEY, ASSISTANT_ID, THREAD_ID", file=sys.stderr)
-    //sys.exit(1)
+    #sys.exit(1)
 
 month = datetime.datetime.utcnow().strftime("%Y-%m")
 base  = f"https://cdn.jsdelivr.net/gh/vaibhavrajebhosale/us-swing-trade-management@{BRANCH}/snapshots/{month}/latest"
