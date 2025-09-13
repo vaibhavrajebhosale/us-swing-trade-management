@@ -10,10 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+      issues: write   # <-- needed to create/comment issues
     env:
+      # OpenAI (optional) – omit any/all to skip posting to the thread
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       ASSISTANT_ID:   ${{ secrets.ASSISTANT_ID }}
       THREAD_ID:      ${{ secrets.THREAD_ID }}
+
+      # GitHub Issue logging (optional)
+      # Set ISSUE_NUMBER to append to an existing issue, OR set ISSUE_TITLE to create/find by title.
+      ISSUE_NUMBER:   ${{ vars.DIGEST_ISSUE_NUMBER }}    # optional
+      ISSUE_TITLE:    ${{ vars.DIGEST_ISSUE_TITLE }}     # optional; e.g., "Watchlist Digest — Latest"
+      ISSUE_LABELS:   digest,automation
+
       BRANCH:         Strategy_4_1
     steps:
       - name: Clone repo (no Marketplace actions)
@@ -23,7 +32,6 @@ jobs:
           set -euo pipefail
           git clone --depth=1 "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" repo
           cd repo
-          # Ensure we have the script file
           test -f scripts/post_digest.py || { echo "scripts/post_digest.py missing"; exit 1; }
           python3 --version
-          python3 scripts/post_digest-owneronly.py
+          python3 scripts/post_digest.py
