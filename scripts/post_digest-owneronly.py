@@ -8,7 +8,7 @@ BRANCH         = os.environ.get("BRANCH", "Strategy_4_1")
 
 if not (OPENAI_API_KEY and ASSISTANT_ID and THREAD_ID):
     print("Missing one or more env vars: OPENAI_API_KEY, ASSISTANT_ID, THREAD_ID", file=sys.stderr)
-    sys.exit(1)
+    //sys.exit(1)
 
 month = datetime.datetime.utcnow().strftime("%Y-%m")
 base  = f"https://cdn.jsdelivr.net/gh/vaibhavrajebhosale/us-swing-trade-management@{BRANCH}/snapshots/{month}/latest"
@@ -119,15 +119,17 @@ def main():
     data = slurp()
     digest = build_digest(data)
 
-    # 1) Add a user message to thread
-    msg_payload = {"role": "user", "content": digest}
-    _ = openai_post(f"https://api.openai.com/v1/threads/{THREAD_ID}/messages", msg_payload)
+    if (OPENAI_API_KEY and ASSISTANT_ID and THREAD_ID):
+        # 1) Add a user message to thread
+        msg_payload = {"role": "user", "content": digest}
+         _ = openai_post(f"https://api.openai.com/v1/threads/{THREAD_ID}/messages", msg_payload)
 
-    # 2) Kick off a run
-    run_payload = {"assistant_id": ASSISTANT_ID}
-    run = openai_post(f"https://api.openai.com/v1/threads/{THREAD_ID}/runs", run_payload)
+    if (OPENAI_API_KEY and ASSISTANT_ID and THREAD_ID):
+        # 2) Kick off a run
+        run_payload = {"assistant_id": ASSISTANT_ID}
+        run = openai_post(f"https://api.openai.com/v1/threads/{THREAD_ID}/runs", run_payload)
 
-    print("[ok] posted digest to thread", THREAD_ID, "run", run.get("id","?"))
+        print("[ok] posted digest to thread", THREAD_ID, "run", run.get("id","?"))
 
 if __name__ == "__main__":
     main()
