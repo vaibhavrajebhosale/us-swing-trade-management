@@ -32,6 +32,6 @@ jobs:
           set -euo pipefail
           git clone --depth=1 "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" repo
           cd repo
-          test -f scripts/post_digest-owneronly.py || { echo "scripts/post_digest.py missing"; exit 1; }
+          test -f scripts/post_digest-owneronly.py || { echo "scripts/post_digest-owneronly.py missing"; exit 1; }
           python3 --version
           python3 scripts/post_digest-owneronly.py
