@@ -1,46 +1,31 @@
-name: Post Digest (owner-only)
+name: Post Watchlist Digest
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 13 * * 1-5"
+    - cron: "5 9 * * 1-5"  # weekdays 09:05 UTC
+
+permissions:
+  contents: read
+  issues: write
 
 jobs:
-  digest:
+  post:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      issues: write
     env:
       BRANCH: Strategy_4_1
-      # Prefer default GITHUB_TOKEN. If your org restricts it, add a classic PAT secret GH_PAT and uncomment next line:
-      # GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-
-      # Optional OpenAI thread posting:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      ASSISTANT_ID:   ${{ secrets.ASSISTANT_ID }}
-      THREAD_ID:      ${{ secrets.THREAD_ID }}
-
-      # Optional issue target:
-      ISSUE_NUMBER:   ${{ vars.DIGEST_ISSUE_NUMBER }}
-      ISSUE_TITLE:    ${{ vars.DIGEST_ISSUE_TITLE }}  # e.g., "Watchlist Digest — Latest"
-      ISSUE_LABELS:   digest,automation
-
+      GH_PAT: ${{ secrets.GH_PAT }}
+      ISSUE_TITLE: "Watchlist Digest — ${{ github.event.repository.updated_at && (github.event.repository.updated_at) }}"
+      ISSUE_LABELS: "digest,automation"
     steps:
-      - name: Preflight: show token capabilities
-        run: |
-          set -euo pipefail
-          curl -sS -H "Authorization: token ${GITHUB_TOKEN}" -H "User-Agent: preflight" \
-            "${GITHUB_API_URL:-https://api.github.com}/repos/${GITHUB_REPOSITORY}" | \
-            python3 - <<'PY'
-import json,sys; j=json.load(sys.stdin)
-print("permissions:", j.get("permissions"))
-PY
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Clone repo (native)
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run
         run: |
-          set -euo pipefail
-          git clone --depth=1 "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" repo
-          cd repo
-          test -f scripts/post_digest.py && ENTRY=scripts/post_digest.py || ENTRY=scripts/post_digest-owneronly.py
-          python3 --version
-          python3 "$ENTRY"
+          python3 scripts/post_digest_owner_pat.py
