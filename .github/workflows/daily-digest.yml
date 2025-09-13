@@ -1,67 +1,66 @@
-name: Daily Digest (Strategy 4.1)
+name: Post Digest (owner-only)
 
 on:
-  schedule:
-    # Weekdays at 14:30 UTC (e.g. 10:30 ET during EDT) – adjust to taste.
-    - cron: '30 14 * * 1-5'
   workflow_dispatch:
-
-permissions:
-  contents: read
-  issues: write
+  schedule:
+    - cron: "30 13 * * 1-5"  # 13:30 UTC on weekdays
 
 jobs:
-  build:
+  digest:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     env:
-      # Optional: change if you want a harsher/looser stale warning
-      STALE_HOURS: '24'
-      # For your CDN branch tag
-      BRANCH_TAG: 'Strategy_4_1'
-      # Optional: Slack webhook (add as repo secret if you want Slack posts)
-      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      ASSISTANT_ID: ${{ secrets.ASSISTANT_ID }}
+      THREAD_ID: ${{ secrets.THREAD_ID }}
+      BRANCH: Strategy_4_1
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - run: pip install requests python-dateutil
-
-      - name: Build digest
-        run: |
-          python scripts/post_digest.py > digest.txt
-          echo "---- DIGEST ----"
-          sed -n '1,120p' digest.txt
-
-      - name: Post to GitHub Issue
-        uses: actions/github-script@v7
+      - name: Clone repo (no checkout action)
         env:
-          ISSUE_NUM: ${{ secrets.DIGEST_ISSUE_NUMBER }}
-        with:
-          script: |
-            const fs = require('fs');
-            const body = fs.readFileSync('digest.txt', 'utf8');
-            const issue_number = parseInt(process.env.ISSUE_NUM, 10);
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number,
-              body
-            });
-
-      # Optional: also post to Slack if you add SLACK_WEBHOOK_URL secret
-      - name: Post to Slack (optional)
-        if: env.SLACK_WEBHOOK_URL != ''
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python - << 'PY'
-          import json, os
-          txt = open('digest.txt','r', encoding='utf-8').read()
-          payload = json.dumps({"text": txt})
-          import urllib.request
-          req = urllib.request.Request(os.environ['SLACK_WEBHOOK_URL'],
-                                       data=payload.encode('utf-8'),
-                                       headers={'Content-Type':'application/json'})
-          with urllib.request.urlopen(req) as r: print(r.read().decode())
-          PY
+          git clone --depth=1 https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git repo
+          cd repo
+          git fetch origin $BRANCH --depth=1
+          git checkout $BRANCH || git checkout -b $BRANCH origin/$BRANCH
+
+      - name: Post digest to Assistant thread
+        run: |
+          set -euo pipefail
+          MONTH=$(date -u +"%Y-%m")
+          BASE="https://cdn.jsdelivr.net/gh/vaibhavrajebhosale/us-swing-trade-management@${BRANCH}/snapshots/${MONTH}/latest"
+          # Pull the few tabs needed for the email digest
+          EW=$(curl -fsSL "${BASE}/EntryWatchlist.json" || echo '{}')
+          OT=$(curl -fsSL "${BASE}/OversoldTracker.json" || echo '{}')
+          EX=$(curl -fsSL "${BASE}/ExitMonitor.json" || echo '{}')
+          RM=$(curl -fsSL "${BASE}/RiskMonitor.json" || echo '{}')
+          EM=$(curl -fsSL "${BASE}/EarningsMonitor.json" || echo '{}")
+
+          # Build a tiny plaintext digest (you can replace this with your richer formatter)
+          DIGEST=$(
+            python3 - "$EW" "$OT" "$EX" "$RM" "$EM" <<'PY'
+import sys, json
+def pick(rows, k): return ", ".join(r.get(k,"") for r in rows[:8])
+def load(s):
+    try: d=json.loads(s); return d.get("rows",[])
+    except: return []
+ew,ot,ex,rm,em = map(load, sys.argv[1:6])
+
+print("Buy Candidates:", pick(ew,"Ticker"))
+print("Oversold but Not Ready:", pick(ot,"Ticker"))
+print("Exits:", pick(ex,"Ticker"))
+print("Risk & Quotas:", pick(rm,"Note") or "—")
+print("Upcoming Earnings (14d):", pick(em,"Ticker"))
+PY
+          )
+
+          # 1) Add a message to the thread
+          curl -fsS https://api.openai.com/v1/threads/${THREAD_ID}/messages \
+            -H "Authorization: Bearer ${OPENAI_API_KEY}" -H "Content-Type: application/json" \
+            -d "$(jq -n --arg c "$DIGEST" '{role:"user", content:$c}')"
+
+          # 2) Run the Assistant on that thread
+          curl -fsS https://api.openai.com/v1/threads/${THREAD_ID}/runs \
+            -H "Authorization: Bearer ${OPENAI_API_KEY}" -H "Content-Type: application/json" \
+            -d "$(jq -n --arg a "$ASSISTANT_ID" '{assistant_id:$a}')"
