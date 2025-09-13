@@ -114,22 +114,21 @@ def openai_post(url, payload):
     )
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.loads(r.read().decode("utf-8"))
-
 def main():
     data = slurp()
     digest = build_digest(data)
 
-    if (OPENAI_API_KEY and ASSISTANT_ID and THREAD_ID):
+    if OPENAI_API_KEY and ASSISTANT_ID and THREAD_ID:
         # 1) Add a user message to thread
         msg_payload = {"role": "user", "content": digest}
-         _ = openai_post(f"https://api.openai.com/v1/threads/{THREAD_ID}/messages", msg_payload)
+        _ = openai_post(f"https://api.openai.com/v1/threads/{THREAD_ID}/messages", msg_payload)
 
-    if (OPENAI_API_KEY and ASSISTANT_ID and THREAD_ID):
+    if OPENAI_API_KEY and ASSISTANT_ID and THREAD_ID:
         # 2) Kick off a run
         run_payload = {"assistant_id": ASSISTANT_ID}
         run = openai_post(f"https://api.openai.com/v1/threads/{THREAD_ID}/runs", run_payload)
 
-        print("[ok] posted digest to thread", THREAD_ID, "run", run.get("id","?"))
+        print("[ok] posted digest to thread", THREAD_ID, "run", run.get("id", "?"))
 
 if __name__ == "__main__":
     main()
