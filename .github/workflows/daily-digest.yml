@@ -12,55 +12,18 @@ jobs:
       contents: read
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      ASSISTANT_ID: ${{ secrets.ASSISTANT_ID }}
-      THREAD_ID: ${{ secrets.THREAD_ID }}
-      BRANCH: Strategy_4_1
+      ASSISTANT_ID:   ${{ secrets.ASSISTANT_ID }}
+      THREAD_ID:      ${{ secrets.THREAD_ID }}
+      BRANCH:         Strategy_4_1
     steps:
-      - name: Clone repo (no checkout action)
+      - name: Clone repo (no Marketplace actions)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git clone --depth=1 https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git repo
-          cd repo
-          git fetch origin $BRANCH --depth=1
-          git checkout $BRANCH || git checkout -b $BRANCH origin/$BRANCH
-
-      - name: Post digest to Assistant thread
-        run: |
           set -euo pipefail
-          MONTH=$(date -u +"%Y-%m")
-          BASE="https://cdn.jsdelivr.net/gh/vaibhavrajebhosale/us-swing-trade-management@${BRANCH}/snapshots/${MONTH}/latest"
-          # Pull the few tabs needed for the email digest
-          EW=$(curl -fsSL "${BASE}/EntryWatchlist.json" || echo '{}')
-          OT=$(curl -fsSL "${BASE}/OversoldTracker.json" || echo '{}')
-          EX=$(curl -fsSL "${BASE}/ExitMonitor.json" || echo '{}')
-          RM=$(curl -fsSL "${BASE}/RiskMonitor.json" || echo '{}')
-          EM=$(curl -fsSL "${BASE}/EarningsMonitor.json" || echo '{}")
-
-          # Build a tiny plaintext digest (you can replace this with your richer formatter)
-          DIGEST=$(
-            python3 - "$EW" "$OT" "$EX" "$RM" "$EM" <<'PY'
-import sys, json
-def pick(rows, k): return ", ".join(r.get(k,"") for r in rows[:8])
-def load(s):
-    try: d=json.loads(s); return d.get("rows",[])
-    except: return []
-ew,ot,ex,rm,em = map(load, sys.argv[1:6])
-
-print("Buy Candidates:", pick(ew,"Ticker"))
-print("Oversold but Not Ready:", pick(ot,"Ticker"))
-print("Exits:", pick(ex,"Ticker"))
-print("Risk & Quotas:", pick(rm,"Note") or "—")
-print("Upcoming Earnings (14d):", pick(em,"Ticker"))
-PY
-          )
-
-          # 1) Add a message to the thread
-          curl -fsS https://api.openai.com/v1/threads/${THREAD_ID}/messages \
-            -H "Authorization: Bearer ${OPENAI_API_KEY}" -H "Content-Type: application/json" \
-            -d "$(jq -n --arg c "$DIGEST" '{role:"user", content:$c}')"
-
-          # 2) Run the Assistant on that thread
-          curl -fsS https://api.openai.com/v1/threads/${THREAD_ID}/runs \
-            -H "Authorization: Bearer ${OPENAI_API_KEY}" -H "Content-Type: application/json" \
-            -d "$(jq -n --arg a "$ASSISTANT_ID" '{assistant_id:$a}')"
+          git clone --depth=1 "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" repo
+          cd repo
+          # Ensure we have the script file
+          test -f scripts/post_digest.py || { echo "scripts/post_digest.py missing"; exit 1; }
+          python3 --version
+          python3 scripts/post_digest-owneronly.py
