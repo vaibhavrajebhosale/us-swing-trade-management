@@ -13,7 +13,6 @@
     "Additional Matched Entry Tags",
     "PostEarningsRebound (Y/N)",
     "MissingSignals",
-    "NextCheckAt (ISO)",
     "Notes",
     "Ticker UUID",
     "NextCheckAt (ISO8601)"
@@ -33,7 +32,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -52,7 +50,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "MACD hook/cross",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -71,7 +68,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -90,7 +86,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "MACD hook/cross",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -109,7 +104,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -128,7 +122,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -147,7 +140,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, Earnings≥35d",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -166,7 +158,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -185,7 +176,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -204,7 +194,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, Earnings≥35d",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -223,7 +212,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "Closed trade; removed from oversold tracker",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -242,7 +230,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -261,7 +248,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -280,7 +266,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -299,7 +284,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "MACD hook/cross",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -318,7 +302,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "MACD hook/cross, Earnings≥35d",
-      "NextCheckAt (ISO)": "2025-08-21 21:00:57 CT",
       "Notes": "",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -337,7 +320,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "",
       "MissingSignals": "",
-      "NextCheckAt (ISO)": "",
       "Notes": "Closed trade; removed from oversold tracker",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -356,7 +338,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "",
       "MissingSignals": "",
-      "NextCheckAt (ISO)": "",
       "Notes": "Closed trade; removed from oversold tracker",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -375,7 +356,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "",
       "MissingSignals": "",
-      "NextCheckAt (ISO)": "",
       "Notes": "Closed trade; removed from oversold tracker",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
@@ -394,7 +374,6 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "",
       "MissingSignals": "",
-      "NextCheckAt (ISO)": "",
       "Notes": "Closed trade; removed from oversold tracker",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""

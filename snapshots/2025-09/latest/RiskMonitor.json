@@ -1,61 +1,18 @@
 {
   "columns": [
-    "Date",
+    "Date (ISO8601)",
     "Equity_EOD",
     "DD_10d_%",
     "KillSwitchState (ON|OFF)",
-    "TriggeredAt (ISO)",
-    "ResetAt (ISO)",
+    "TriggeredAt (ISO8601)",
+    "ResetAt (ISO8601)",
     "StopLossBreaches (#)",
     "SectorBreach (Y/N)",
     "KillSwitchState (ON/OFF)",
-    "TriggeredAt",
-    "ResetAt",
     "GrossExposure",
     "NetExposure",
     "Beta_Estimate",
-    "Notes",
-    "TriggeredAt (ISO8601)",
-    "ResetAt (ISO8601)"
+    "Notes"
   ],
-  "rows": [
-    {
-      "Date": "2025-08-19T19:58:40.424Z",
-      "Equity_EOD": "",
-      "DD_10d_%": "",
-      "KillSwitchState (ON|OFF)": "OFF",
-      "TriggeredAt (ISO)": "",
-      "ResetAt (ISO)": "",
-      "StopLossBreaches (#)": "",
-      "SectorBreach (Y/N)": "",
-      "KillSwitchState (ON/OFF)": "OFF",
-      "TriggeredAt": "",
-      "ResetAt": "",
-      "GrossExposure": "",
-      "NetExposure": "",
-      "Beta_Estimate": "",
-      "Notes": "Bootstrap row",
-      "TriggeredAt (ISO8601)": "",
-      "ResetAt (ISO8601)": ""
-    },
-    {
-      "Date": "2025-08-31T05:00:00.000Z",
-      "Equity_EOD": "",
-      "DD_10d_%": -6.2,
-      "KillSwitchState (ON|OFF)": "ON",
-      "TriggeredAt (ISO)": "",
-      "ResetAt (ISO)": "",
-      "StopLossBreaches (#)": "",
-      "SectorBreach (Y/N)": "",
-      "KillSwitchState (ON/OFF)": "",
-      "TriggeredAt": "",
-      "ResetAt": "",
-      "GrossExposure": "",
-      "NetExposure": "",
-      "Beta_Estimate": "",
-      "Notes": "system trigger",
-      "TriggeredAt (ISO8601)": "2025-08-31T19:06:44.863Z",
-      "ResetAt (ISO8601)": ""
-    }
-  ]
+  "rows": []
 }

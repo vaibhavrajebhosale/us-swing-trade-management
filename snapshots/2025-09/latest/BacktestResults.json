@@ -10,11 +10,10 @@
     "Play Type",
     "Slippage Applied? (Y/N)",
     "Notes",
-    "Last Updated (ISO)",
+    "Last Updated (ISO8601)",
     "Eligible?",
     "Hit Rate (Last 8Q)",
-    "Best Entry Timing",
-    "Last Updated (ISO8601)"
+    "Best Entry Timing"
   ],
   "rows": [
     {
@@ -28,11 +27,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:12 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:12 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "PYPL",
@@ -45,11 +43,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:13 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:13 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "TGT",
@@ -62,11 +59,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:13 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:13 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "INTC",
@@ -79,11 +75,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:14 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:14 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "KO",
@@ -96,11 +91,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "2025-08-18 22:53:15 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:15 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "CL",
@@ -113,11 +107,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:16 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:16 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "VZ",
@@ -130,11 +123,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:16 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:16 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "DNUT",
@@ -147,11 +139,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "2025-08-18 22:53:17 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:17 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "CAG",
@@ -164,11 +155,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:18 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:18 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "KHC",
@@ -181,11 +171,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:18 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:18 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "FXNC",
@@ -198,11 +187,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:19 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:19 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "PCG",
@@ -215,11 +203,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:19 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:19 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "GE",
@@ -232,11 +219,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:20 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:20 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "ETSY",
@@ -249,11 +235,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:21 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:21 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "BMY",
@@ -266,11 +251,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:21 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:21 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "CNC",
@@ -283,11 +267,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:22 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:22 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "NOK",
@@ -300,11 +283,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:25 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:25 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "ASML",
@@ -317,11 +299,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:25 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:25 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "FSLR",
@@ -334,11 +315,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:26 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:26 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "MCD",
@@ -351,11 +331,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:26 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:26 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "BX",
@@ -368,11 +347,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:27 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:27 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "EOG",
@@ -385,11 +363,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:29 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:29 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "APA",
@@ -402,11 +379,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:29 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:29 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "OXY",
@@ -419,11 +395,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:31 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:31 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "CRWD",
@@ -436,11 +411,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:31 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:31 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "FIVE",
@@ -453,11 +427,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:32 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:32 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "PFE",
@@ -470,11 +443,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "2025-08-18 22:53:33 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:33 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "SHOP",
@@ -487,11 +459,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:33 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:33 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "TAL",
@@ -504,11 +475,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:34 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:34 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "CMG",
@@ -521,11 +491,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "2025-08-18 22:53:34 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:34 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "RUN",
@@ -538,11 +507,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:35 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:35 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "CSX",
@@ -555,11 +523,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:35 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:35 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "TXRH",
@@ -572,11 +539,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:36 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:36 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "PAY",
@@ -589,11 +555,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:38 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:38 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "FLNG",
@@ -606,11 +571,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:38 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:38 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "AFL",
@@ -623,11 +587,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:39 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:39 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "KMB",
@@ -640,11 +603,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:40 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:40 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "ADM",
@@ -657,11 +619,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:41 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:41 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "KEYS",
@@ -674,11 +635,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:43 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:43 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "MKC",
@@ -691,11 +651,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:44 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:44 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "CLX",
@@ -708,11 +667,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:44 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:44 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "STZ",
@@ -725,11 +683,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:45 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:45 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "PEP",
@@ -742,11 +699,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:45 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:45 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "HSY",
@@ -759,11 +715,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:46 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:46 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "QCOM",
@@ -776,11 +731,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:47 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:47 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "CVS",
@@ -793,11 +747,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:47 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:47 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "V",
@@ -810,11 +763,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "2025-08-18 22:53:48 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:48 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "MRK",
@@ -827,11 +779,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:49 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:49 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "MDLZ",
@@ -844,11 +795,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:50 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:50 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "SWK",
@@ -861,11 +811,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:52 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:52 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "SJM",
@@ -878,11 +827,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:52 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:52 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "ERIC",
@@ -895,11 +843,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:53 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:53 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "PFS",
@@ -912,11 +859,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:54 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:54 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "LYFT",
@@ -929,11 +875,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:55 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:55 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "DOCU",
@@ -946,11 +891,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:55 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:55 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "ROKU",
@@ -963,11 +907,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:56 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:56 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "RBRK",
@@ -980,11 +923,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:58 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:58 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "GME",
@@ -997,11 +939,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:53:58 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:53:58 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "KR",
@@ -1014,11 +955,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:54:00 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:54:00 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "RH",
@@ -1031,11 +971,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:54:01 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:54:01 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "ADBE",
@@ -1048,11 +987,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:54:01 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:54:01 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "NVTS",
@@ -1065,11 +1003,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:54:02 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:54:02 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "MCHP",
@@ -1082,11 +1019,10 @@
       "Play Type": "OversoldTechnicalPlay",
       "Slippage Applied? (Y/N)": "Y",
       "Notes": "",
-      "Last Updated (ISO)": "2025-08-18 22:54:04 CT",
+      "Last Updated (ISO8601)": "2025-08-18 22:54:04 CT",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "PLTR",
@@ -1099,11 +1035,10 @@
       "Play Type": "",
       "Slippage Applied? (Y/N)": "",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "",
+      "Last Updated (ISO8601)": "",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "COIN",
@@ -1116,11 +1051,10 @@
       "Play Type": "",
       "Slippage Applied? (Y/N)": "",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "",
+      "Last Updated (ISO8601)": "",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "CPRT",
@@ -1133,11 +1067,10 @@
       "Play Type": "",
       "Slippage Applied? (Y/N)": "",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "",
+      "Last Updated (ISO8601)": "",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "JNJ",
@@ -1150,11 +1083,10 @@
       "Play Type": "",
       "Slippage Applied? (Y/N)": "",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "",
+      "Last Updated (ISO8601)": "",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "LLY",
@@ -1167,11 +1099,10 @@
       "Play Type": "",
       "Slippage Applied? (Y/N)": "",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "",
+      "Last Updated (ISO8601)": "",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "HD",
@@ -1184,11 +1115,10 @@
       "Play Type": "",
       "Slippage Applied? (Y/N)": "",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "",
+      "Last Updated (ISO8601)": "",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "PG",
@@ -1201,11 +1131,10 @@
       "Play Type": "",
       "Slippage Applied? (Y/N)": "",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "",
+      "Last Updated (ISO8601)": "",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "ORCL",
@@ -1218,11 +1147,10 @@
       "Play Type": "",
       "Slippage Applied? (Y/N)": "",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "",
+      "Last Updated (ISO8601)": "",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "AMZN",
@@ -1235,11 +1163,10 @@
       "Play Type": "",
       "Slippage Applied? (Y/N)": "",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "",
+      "Last Updated (ISO8601)": "",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "IREN",
@@ -1252,11 +1179,10 @@
       "Play Type": "",
       "Slippage Applied? (Y/N)": "",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "",
+      "Last Updated (ISO8601)": "",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     },
     {
       "Ticker": "NBIS",
@@ -1269,11 +1195,10 @@
       "Play Type": "",
       "Slippage Applied? (Y/N)": "",
       "Notes": "Stub removed — awaiting real backtest",
-      "Last Updated (ISO)": "",
+      "Last Updated (ISO8601)": "",
       "Eligible?": "",
       "Hit Rate (Last 8Q)": "",
-      "Best Entry Timing": "",
-      "Last Updated (ISO8601)": ""
+      "Best Entry Timing": ""
     }
   ]
 }
