@@ -353,12 +353,12 @@
     {
       "Ticker": "PAY",
       "AddedAt (ISO)": "",
-      "Reason": "",
-      "Status (Queued|Running|Done|Failed)": "Done",
+      "Reason": "Not in Master — validation + backtest",
+      "Status (Queued|Running|Done|Failed)": "Queued",
       "LastUpdated (ISO)": "2025-08-18 22:53:38 CT",
       "Notes": "",
-      "AddedAt (ISO8601)": "",
-      "LastUpdated (ISO8601)": ""
+      "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
+      "LastUpdated (ISO8601)": "2025-09-15T15:46:02.608Z"
     },
     {
       "Ticker": "FLNG",
@@ -583,12 +583,12 @@
     {
       "Ticker": "RBRK",
       "AddedAt (ISO)": "",
-      "Reason": "",
-      "Status (Queued|Running|Done|Failed)": "Done",
+      "Reason": "Thin history — only 5 quarters",
+      "Status (Queued|Running|Done|Failed)": "Queued",
       "LastUpdated (ISO)": "2025-08-18 22:53:58 CT",
       "Notes": "",
-      "AddedAt (ISO8601)": "",
-      "LastUpdated (ISO8601)": ""
+      "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
+      "LastUpdated (ISO8601)": "2025-09-15T15:46:01.296Z"
     },
     {
       "Ticker": "GME",
@@ -643,12 +643,12 @@
     {
       "Ticker": "NVTS",
       "AddedAt (ISO)": "",
-      "Reason": "Pilot run",
-      "Status (Queued|Running|Done|Failed)": "Done",
+      "Reason": "Borderline coverage — 15 quarters",
+      "Status (Queued|Running|Done|Failed)": "Queued",
       "LastUpdated (ISO)": "2025-08-18 22:54:04 CT",
       "Notes": "",
-      "AddedAt (ISO8601)": "",
-      "LastUpdated (ISO8601)": "2025-09-01T16:04:00.640Z"
+      "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
+      "LastUpdated (ISO8601)": "2025-09-15T15:46:01.635Z"
     },
     {
       "Ticker": "MCHP",
@@ -663,12 +663,12 @@
     {
       "Ticker": "PLTR",
       "AddedAt (ISO)": "",
-      "Reason": "Pilot run",
+      "Reason": "Missing backtest — live holding",
       "Status (Queued|Running|Done|Failed)": "Queued",
       "LastUpdated (ISO)": "",
       "Notes": "",
-      "AddedAt (ISO8601)": "",
-      "LastUpdated (ISO8601)": "2025-09-01T16:04:00.110Z"
+      "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
+      "LastUpdated (ISO8601)": "2025-09-15T15:46:00.893Z"
     },
     {
       "Ticker": "COIN",
@@ -683,12 +683,12 @@
     {
       "Ticker": "CPRT",
       "AddedAt (ISO)": "",
-      "Reason": "Review after exit recommendation",
+      "Reason": "Legacy ticker — missing fresh backtest",
       "Status (Queued|Running|Done|Failed)": "Queued",
       "LastUpdated (ISO)": "",
       "Notes": "via relay",
-      "AddedAt (ISO8601)": "2025-08-30T19:39:06.647Z",
-      "LastUpdated (ISO8601)": "2025-08-30T19:39:06.647Z"
+      "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
+      "LastUpdated (ISO8601)": "2025-09-15T15:46:02.914Z"
     },
     {
       "Ticker": "JNJ",
