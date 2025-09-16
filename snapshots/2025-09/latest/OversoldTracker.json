@@ -57,20 +57,20 @@
     {
       "Ticker": "NOK",
       "Current Price": "",
-      "RSI": 42.1785,
+      "RSI": 41.2,
       "MACD Signal": "down",
       "BB Position": "Upper",
-      "%B": 0.8171,
-      "VolZ": -0.62,
+      "%B": 0.18,
+      "VolZ": -0.4,
       "Next Earnings Date": "2025-10-22T00:00:00.000Z",
       "EarningsBufferDays": 53,
       "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Oversold",
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross",
-      "Notes": "",
+      "Notes": "Still in oversold; no bounce signal yet.",
       "Ticker UUID": "",
-      "NextCheckAt (ISO8601)": ""
+      "NextCheckAt (ISO8601)": "2025-09-15T23:00:00-05:00"
     },
     {
       "Ticker": "BX",
@@ -140,7 +140,7 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, Earnings≥35d",
-      "Notes": "RSI close to oversold; MACD negative; trend below key MA; possible setup if volume / reversal signal.",
+      "Notes": "Close to oversold; MACD still down; waiting for reversal signal.",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
     },
@@ -165,7 +165,7 @@
     {
       "Ticker": "MDLZ",
       "Current Price": "",
-      "RSI": 49,
+      "RSI": 43,
       "MACD Signal": "down",
       "BB Position": "Mid",
       "%B": 0.45,
@@ -176,7 +176,7 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
-      "Notes": "Mixed technicals; RSI near neutral; trend weak. No oversold signal yet.",
+      "Notes": "Weak trend; MACD negative; RSI low‑mid; no bounce yet.",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
     },
@@ -194,7 +194,7 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, Earnings≥35d",
-      "Notes": "RSI ~60‑61; MACD positive; strong short‑term trend. Not oversold.",
+      "Notes": "RSI ~59.6; MACD +0.42; price above shorter MAs; not oversold.",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
     },
