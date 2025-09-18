@@ -313,12 +313,12 @@
     {
       "Ticker": "CMG",
       "AddedAt (ISO)": "",
-      "Reason": "NotBacktested",
+      "Reason": "HighConviction",
       "Status (Queued|Running|Done|Failed)": "Queued",
       "LastUpdated (ISO)": "2025-08-18 22:53:35 CT",
-      "Notes": "auto-enqueue from EntryWatchlist add",
+      "Notes": "Ready for full ER drift test",
       "AddedAt (ISO8601)": "",
-      "LastUpdated (ISO8601)": "2025-09-03T04:18:46.627Z"
+      "LastUpdated (ISO8601)": "2025-09-18T16:31:56.224Z"
     },
     {
       "Ticker": "RUN",
@@ -353,12 +353,12 @@
     {
       "Ticker": "PAY",
       "AddedAt (ISO)": "",
-      "Reason": "Not in Master — validation + backtest",
+      "Reason": "Validation",
       "Status (Queued|Running|Done|Failed)": "Queued",
       "LastUpdated (ISO)": "2025-08-18 22:53:38 CT",
-      "Notes": "",
+      "Notes": "Need full ER history check before eligible",
       "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
-      "LastUpdated (ISO8601)": "2025-09-15T15:46:02.608Z"
+      "LastUpdated (ISO8601)": "2025-09-18T16:31:57.859Z"
     },
     {
       "Ticker": "FLNG",
@@ -583,12 +583,12 @@
     {
       "Ticker": "RBRK",
       "AddedAt (ISO)": "",
-      "Reason": "Thin history — only 5 quarters",
+      "Reason": "InsufficientHistory",
       "Status (Queued|Running|Done|Failed)": "Queued",
       "LastUpdated (ISO)": "2025-08-18 22:53:58 CT",
-      "Notes": "",
+      "Notes": "Skip: limited price/ER data",
       "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
-      "LastUpdated (ISO8601)": "2025-09-15T15:46:01.296Z"
+      "LastUpdated (ISO8601)": "2025-09-18T16:31:58.296Z"
     },
     {
       "Ticker": "GME",
@@ -663,32 +663,32 @@
     {
       "Ticker": "PLTR",
       "AddedAt (ISO)": "",
-      "Reason": "Missing backtest — live holding",
+      "Reason": "NewHolding",
       "Status (Queued|Running|Done|Failed)": "Queued",
       "LastUpdated (ISO)": "",
-      "Notes": "",
+      "Notes": "Add 10 shares live; validate entry vs. ER drift",
       "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
-      "LastUpdated (ISO8601)": "2025-09-15T15:46:00.893Z"
+      "LastUpdated (ISO8601)": "2025-09-18T16:31:56.670Z"
     },
     {
       "Ticker": "COIN",
       "AddedAt (ISO)": "",
-      "Reason": "from chat",
+      "Reason": "Oversold_Bounce",
       "Status (Queued|Running|Done|Failed)": "Queued",
       "LastUpdated (ISO)": "",
-      "Notes": "via web action",
+      "Notes": "Volatility normalized; test drift windows",
       "AddedAt (ISO8601)": "2025-08-24T12:18:35-05:00",
-      "LastUpdated (ISO8601)": "2025-08-24T12:18:35-05:00"
+      "LastUpdated (ISO8601)": "2025-09-18T16:31:56.915Z"
     },
     {
       "Ticker": "CPRT",
       "AddedAt (ISO)": "",
-      "Reason": "Legacy ticker — missing fresh backtest",
+      "Reason": "Validation",
       "Status (Queued|Running|Done|Failed)": "Queued",
       "LastUpdated (ISO)": "",
-      "Notes": "via relay",
+      "Notes": "Liquidity OK, confirm drift stability",
       "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
-      "LastUpdated (ISO8601)": "2025-09-15T15:46:02.914Z"
+      "LastUpdated (ISO8601)": "2025-09-18T16:31:58.101Z"
     },
     {
       "Ticker": "JNJ",
