@@ -1,0 +1,804 @@
+{
+  "columns": [
+    "Ticker",
+    "AddedAt (ISO)",
+    "Reason",
+    "Status (Queued|Running|Done|Failed)",
+    "LastUpdated (ISO)",
+    "Notes",
+    "AddedAt (ISO8601)",
+    "LastUpdated (ISO8601)"
+  ],
+  "rows": [
+    {
+      "Ticker": "WBA",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:12 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "PYPL",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:13 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "TGT",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:14 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "MRO",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "2025-08-18 22:53:14 CT",
+      "Notes": "Error: insufficient history",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "INTC",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:15 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "KO",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "2025-08-18 22:53:15 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:14.283Z"
+    },
+    {
+      "Ticker": "CL",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:16 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "VZ",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:17 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "DNUT",
+      "AddedAt (ISO)": "",
+      "Reason": "External Enqueue",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "2025-08-18 22:53:17 CT",
+      "Notes": "via relay",
+      "AddedAt (ISO8601)": "2025-08-28T04:11:55.912Z",
+      "LastUpdated (ISO8601)": "2025-08-28T04:11:55.912Z"
+    },
+    {
+      "Ticker": "CAG",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:18 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "KHC",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:19 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "FXNC",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:19 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "PCG",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:20 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "GE",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:20 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "ETSY",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:21 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "BMY",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:22 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "CNC",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:24 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "NOK",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:25 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "ASML",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:25 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "FSLR",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:26 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "MCD",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:27 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "BX",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:28 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "EOG",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:29 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "APA",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:31 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "OXY",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:31 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "CRWD",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:32 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "FIVE",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:32 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "PFE",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "2025-08-18 22:53:33 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:15.101Z"
+    },
+    {
+      "Ticker": "SHOP",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:33 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "TAL",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:34 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "CMG",
+      "AddedAt (ISO)": "",
+      "Reason": "HighConviction",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "2025-08-18 22:53:35 CT",
+      "Notes": "Ready for full ER drift test",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": "2025-09-18T16:31:56.224Z"
+    },
+    {
+      "Ticker": "RUN",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:35 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "CSX",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:36 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "TXRH",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:38 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "PAY",
+      "AddedAt (ISO)": "",
+      "Reason": "Validation",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "2025-08-18 22:53:38 CT",
+      "Notes": "Need full ER history check before eligible",
+      "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
+      "LastUpdated (ISO8601)": "2025-09-18T16:31:57.859Z"
+    },
+    {
+      "Ticker": "FLNG",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:39 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "AFL",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:39 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "KMB",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:41 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "ADM",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:42 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "KEYS",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:43 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "MKC",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:44 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "CLX",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:45 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "STZ",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:45 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "PEP",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:46 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:17.154Z"
+    },
+    {
+      "Ticker": "HSY",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:46 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "QCOM",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:47 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "CVS",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:48 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "V",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "2025-08-18 22:53:49 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:12.291Z"
+    },
+    {
+      "Ticker": "MRK",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:50 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "MDLZ",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:52 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "SWK",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:52 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "SJM",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:53 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "ERIC",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:54 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "PFS",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:55 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "LYFT",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:55 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "DOCU",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:56 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "ROKU",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:53:58 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "RBRK",
+      "AddedAt (ISO)": "",
+      "Reason": "InsufficientHistory",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "2025-08-18 22:53:58 CT",
+      "Notes": "Skip: limited price/ER data",
+      "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
+      "LastUpdated (ISO8601)": "2025-09-18T16:31:58.296Z"
+    },
+    {
+      "Ticker": "GME",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:54:00 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "KR",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:54:00 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "RH",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:54:01 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "ADBE",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:54:02 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "CRCL",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "2025-08-18 22:54:02 CT",
+      "Notes": "Error: insufficient history",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "NVTS",
+      "AddedAt (ISO)": "",
+      "Reason": "Borderline coverage — 15 quarters",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "2025-08-18 22:54:04 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
+      "LastUpdated (ISO8601)": "2025-09-15T15:46:01.635Z"
+    },
+    {
+      "Ticker": "MCHP",
+      "AddedAt (ISO)": "",
+      "Reason": "",
+      "Status (Queued|Running|Done|Failed)": "Done",
+      "LastUpdated (ISO)": "2025-08-18 22:54:04 CT",
+      "Notes": "",
+      "AddedAt (ISO8601)": "",
+      "LastUpdated (ISO8601)": ""
+    },
+    {
+      "Ticker": "PLTR",
+      "AddedAt (ISO)": "",
+      "Reason": "NewHolding",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "",
+      "Notes": "Add 10 shares live; validate entry vs. ER drift",
+      "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
+      "LastUpdated (ISO8601)": "2025-09-18T16:31:56.670Z"
+    },
+    {
+      "Ticker": "COIN",
+      "AddedAt (ISO)": "",
+      "Reason": "Oversold_Bounce",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "",
+      "Notes": "Volatility normalized; test drift windows",
+      "AddedAt (ISO8601)": "2025-08-24T12:18:35-05:00",
+      "LastUpdated (ISO8601)": "2025-09-18T16:31:56.915Z"
+    },
+    {
+      "Ticker": "CPRT",
+      "AddedAt (ISO)": "",
+      "Reason": "Validation",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "",
+      "Notes": "Liquidity OK, confirm drift stability",
+      "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
+      "LastUpdated (ISO8601)": "2025-09-18T16:31:58.101Z"
+    },
+    {
+      "Ticker": "JNJ",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "",
+      "Notes": "",
+      "AddedAt (ISO8601)": "2025-08-31T21:36:29.585Z",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:12.840Z"
+    },
+    {
+      "Ticker": "LLY",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "",
+      "Notes": "",
+      "AddedAt (ISO8601)": "2025-08-31T21:36:29.765Z",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:13.353Z"
+    },
+    {
+      "Ticker": "HD",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "",
+      "Notes": "",
+      "AddedAt (ISO8601)": "2025-08-31T21:36:29.956Z",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:13.897Z"
+    },
+    {
+      "Ticker": "PG",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "",
+      "Notes": "",
+      "AddedAt (ISO8601)": "2025-08-31T21:36:30.332Z",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:14.674Z"
+    },
+    {
+      "Ticker": "ORCL",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "",
+      "Notes": "",
+      "AddedAt (ISO8601)": "2025-08-31T21:36:30.674Z",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:15.505Z"
+    },
+    {
+      "Ticker": "AMZN",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "",
+      "Notes": "",
+      "AddedAt (ISO8601)": "2025-09-01T16:04:01.886Z",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:15.929Z"
+    },
+    {
+      "Ticker": "IREN",
+      "AddedAt (ISO)": "",
+      "Reason": "Pilot run",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "",
+      "Notes": "",
+      "AddedAt (ISO8601)": "2025-09-01T16:57:10.522Z",
+      "LastUpdated (ISO8601)": "2025-09-01T16:57:10.522Z"
+    },
+    {
+      "Ticker": "NBIS",
+      "AddedAt (ISO)": "",
+      "Reason": "Pilot run",
+      "Status (Queued|Running|Done|Failed)": "Queued",
+      "LastUpdated (ISO)": "",
+      "Notes": "",
+      "AddedAt (ISO8601)": "2025-09-01T16:57:11.025Z",
+      "LastUpdated (ISO8601)": "2025-09-01T16:57:11.025Z"
+    },
+    {
+      "Ticker": "SAP",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "",
+      "LastUpdated (ISO)": "",
+      "Notes": "",
+      "AddedAt (ISO8601)": "2025-09-04T01:54:16.226Z",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:16.226Z"
+    },
+    {
+      "Ticker": "SBUX",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "",
+      "LastUpdated (ISO)": "",
+      "Notes": "",
+      "AddedAt (ISO8601)": "2025-09-04T01:54:16.537Z",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:16.537Z"
+    },
+    {
+      "Ticker": "NVO",
+      "AddedAt (ISO)": "",
+      "Reason": "ValidatePromotion",
+      "Status (Queued|Running|Done|Failed)": "",
+      "LastUpdated (ISO)": "",
+      "Notes": "",
+      "AddedAt (ISO8601)": "2025-09-04T01:54:16.852Z",
+      "LastUpdated (ISO8601)": "2025-09-04T01:54:16.852Z"
+    }
+  ]
+}
