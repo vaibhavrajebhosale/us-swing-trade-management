@@ -2518,7 +2518,7 @@
     },
     {
       "Ticker": "JNJ",
-      "Ticker UUID": "",
+      "Ticker UUID": "e42da9cc-2be5-432a-b403-bced6dac6c33",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2552,7 +2552,7 @@
     },
     {
       "Ticker": "LLY",
-      "Ticker UUID": "",
+      "Ticker UUID": "8294e0e1-4cc3-4944-b023-ab96b178bca7",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2586,7 +2586,7 @@
     },
     {
       "Ticker": "HD",
-      "Ticker UUID": "",
+      "Ticker UUID": "6a901ba1-741b-4ce6-91cc-6e365608a1fd",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2620,7 +2620,7 @@
     },
     {
       "Ticker": "PG",
-      "Ticker UUID": "",
+      "Ticker UUID": "634f6dff-647e-4cd1-b833-7de19954fb75",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2654,7 +2654,7 @@
     },
     {
       "Ticker": "SAP",
-      "Ticker UUID": "",
+      "Ticker UUID": "ef2faab9-aa41-43c9-8eae-204e43c8b66d",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2688,7 +2688,7 @@
     },
     {
       "Ticker": "SBUX",
-      "Ticker UUID": "",
+      "Ticker UUID": "d92941bd-2f9d-4bdc-b9c1-72a1915e2131",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2722,7 +2722,7 @@
     },
     {
       "Ticker": "NVO",
-      "Ticker UUID": "",
+      "Ticker UUID": "f0592e7b-effd-4d8e-bff0-92936225d6e8",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2756,7 +2756,7 @@
     },
     {
       "Ticker": "PODD",
-      "Ticker UUID": "",
+      "Ticker UUID": "6032f317-cd11-4313-ae73-8ef262121458",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2790,7 +2790,7 @@
     },
     {
       "Ticker": "LDOS",
-      "Ticker UUID": "",
+      "Ticker UUID": "14058c89-d78c-4798-a6b0-a23570d295bf",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2824,7 +2824,7 @@
     },
     {
       "Ticker": "SPOT",
-      "Ticker UUID": "",
+      "Ticker UUID": "05fe0b14-0d27-402b-ad5e-062b15e32685",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2858,7 +2858,7 @@
     },
     {
       "Ticker": "DLTR",
-      "Ticker UUID": "",
+      "Ticker UUID": "67bb7d91-7bb6-4773-82c9-4ab716588d90",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2892,7 +2892,7 @@
     },
     {
       "Ticker": "KDP",
-      "Ticker UUID": "",
+      "Ticker UUID": "de33ac14-1e81-4b96-88f9-a95aede07277",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2926,7 +2926,7 @@
     },
     {
       "Ticker": "HRL",
-      "Ticker UUID": "",
+      "Ticker UUID": "8b0b0a50-ae59-43b9-ad98-5388b0d91343",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2960,7 +2960,7 @@
     },
     {
       "Ticker": "K",
-      "Ticker UUID": "",
+      "Ticker UUID": "4dbf9d24-96cd-440a-a5e4-42a5c93297d9",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -2994,7 +2994,7 @@
     },
     {
       "Ticker": "CFG",
-      "Ticker UUID": "",
+      "Ticker UUID": "333ae658-467d-4560-bab5-551514540dd8",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3028,7 +3028,7 @@
     },
     {
       "Ticker": "CPB",
-      "Ticker UUID": "",
+      "Ticker UUID": "d00e277f-11b3-4cb7-80ee-304f069b4cbe",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3062,7 +3062,7 @@
     },
     {
       "Ticker": "CHWY",
-      "Ticker UUID": "",
+      "Ticker UUID": "d2e80199-d505-40b8-96d5-c4506faf3115",
       "Status (Active|NextCycle|Excluded|Archived)": "Archived",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3096,7 +3096,7 @@
     },
     {
       "Ticker": "CPRT",
-      "Ticker UUID": "",
+      "Ticker UUID": "ef900021-909f-4e9d-b97e-24321a7dd241",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3130,7 +3130,7 @@
     },
     {
       "Ticker": "BBWI",
-      "Ticker UUID": "",
+      "Ticker UUID": "3bec5ccc-9eda-48d9-b646-6742777b8e93",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3164,7 +3164,7 @@
     },
     {
       "Ticker": "WOLF",
-      "Ticker UUID": "",
+      "Ticker UUID": "2b5e33ee-0c23-435c-a3a0-395cf8325997",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3198,7 +3198,7 @@
     },
     {
       "Ticker": "SMTC",
-      "Ticker UUID": "",
+      "Ticker UUID": "899d5e71-aef3-4f87-86cf-ee048ec13e9c",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3232,7 +3232,7 @@
     },
     {
       "Ticker": "TSM",
-      "Ticker UUID": "",
+      "Ticker UUID": "3443243e-4b0e-406f-83f9-a59d6ab426ca",
       "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3260,6 +3260,40 @@
       "Last Traded Date": "",
       "DNT (Y/N)": "",
       "Notes / Warnings": "Queued for Oct cycle (High priority)",
+      "AddedAt (ISO8601)": "",
+      "LastReviewedAt (ISO8601)": "",
+      "PromotionSource": ""
+    },
+    {
+      "Ticker": "SMCI",
+      "Ticker UUID": "c8943e32-4443-4c74-a0b6-9dcf0aa78a30",
+      "Status (Active|NextCycle|Excluded|Archived)": "",
+      "WatchlistPriority (1-5)": "",
+      "StrongEarningsHistory (Y/N)": "",
+      "RSI": "",
+      "MACD_Status (down|hook|cross)": "",
+      "%B": "",
+      "ATR20": "",
+      "VolZ": "",
+      "BounceScore": "",
+      "LastScanAt (ISO8601)": "",
+      "SectorSlotOK (Y/N)": "",
+      "KillSwitchOK (Y/N)": "",
+      "WashSaleCooldownUntil": "",
+      "DoNotTradeUntil": "",
+      "Avg Return % (Backtest)": "",
+      "Hit Rate % (Backtest)": "",
+      "Max Drawdown % (Backtest)": "",
+      "Hit Rate (Last 8Q)": "",
+      "Best Entry Timing": "",
+      "Backtested (Y/N)": "",
+      "Seasonality / Best Window": "",
+      "Strategy Tags": "",
+      "Past Actual Profit % (Live)": "",
+      "Cycles Traded (Live)": "",
+      "Last Traded Date": "",
+      "DNT (Y/N)": "",
+      "Notes / Warnings": "",
       "AddedAt (ISO8601)": "",
       "LastReviewedAt (ISO8601)": "",
       "PromotionSource": ""

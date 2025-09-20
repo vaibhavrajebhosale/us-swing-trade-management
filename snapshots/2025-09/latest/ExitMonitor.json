@@ -38,7 +38,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "Review",
       "Notes": "Closed trade; remove from active exits",
-      "Ticker UUID": "TCKR-a2a09b36"
+      "Ticker UUID": "d2e80199-d505-40b8-96d5-c4506faf3115"
     },
     {
       "Ticker": "CPB",
@@ -58,7 +58,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "Review",
       "Notes": "Closed trade; remove from active exits",
-      "Ticker UUID": "TCKR-dde97851"
+      "Ticker UUID": "d00e277f-11b3-4cb7-80ee-304f069b4cbe"
     },
     {
       "Ticker": "CPRT",
@@ -78,7 +78,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "DaysHeld>40",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
       "Notes": "Auto-flagged Sep 8, 2025: held 79d, beyond 40d window",
-      "Ticker UUID": "TCKR-7fe951d1"
+      "Ticker UUID": "ef900021-909f-4e9d-b97e-24321a7dd241"
     },
     {
       "Ticker": "ERIC",
@@ -98,7 +98,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "DaysHeld>40",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
       "Notes": "Auto-flagged Sep 8, 2025: held 86d, beyond 40d window",
-      "Ticker UUID": "TCKR-7625a0ed"
+      "Ticker UUID": "8c66d8b0-32a7-44f8-8a28-d674094a0022"
     },
     {
       "Ticker": "SJM",
@@ -118,7 +118,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "Earnings ≤7d",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
       "Notes": "ER Sep 4 risk",
-      "Ticker UUID": "TCKR-2431dd37"
+      "Ticker UUID": "71529755-0b2e-4eec-b881-d70feeaf16b4"
     },
     {
       "Ticker": "BBWI",
@@ -138,7 +138,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "DaysHeld>40",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
       "Notes": "Auto-flagged Sep 8, 2025: held 60d, beyond 40d window",
-      "Ticker UUID": "TCKR-77136431"
+      "Ticker UUID": "3bec5ccc-9eda-48d9-b646-6742777b8e93"
     },
     {
       "Ticker": "AFL",
@@ -158,7 +158,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "Review",
       "Notes": "Closed trade; remove from active exits",
-      "Ticker UUID": "TCKR-01f4ad68"
+      "Ticker UUID": "df9db6d8-70cf-4956-961c-5188d9dedad0"
     },
     {
       "Ticker": "GME",
@@ -178,7 +178,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "Review",
       "Notes": "Closed trade; remove from active exits",
-      "Ticker UUID": "TCKR-8ded85bd"
+      "Ticker UUID": "c34ffc36-e5db-42c3-b832-31f872b44074"
     },
     {
       "Ticker": "RBRK",
@@ -198,7 +198,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "Earnings ≤7d",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
       "Notes": "ER Sep 4 risk",
-      "Ticker UUID": "TCKR-8f4b4086"
+      "Ticker UUID": "959727a3-a24d-47f1-9410-30523ae1669f"
     },
     {
       "Ticker": "CFG",
@@ -218,7 +218,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "Review",
       "Notes": "Closed trade; remove from active exits",
-      "Ticker UUID": "TCKR-fdd77d90"
+      "Ticker UUID": "333ae658-467d-4560-bab5-551514540dd8"
     },
     {
       "Ticker": "SMCI",
@@ -238,7 +238,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "Earnings passed",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
       "Notes": "ER Aug 7 passed",
-      "Ticker UUID": "TCKR-288ea95a"
+      "Ticker UUID": "c8943e32-4443-4c74-a0b6-9dcf0aa78a30"
     },
     {
       "Ticker": "NVTS",
@@ -258,7 +258,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "EarningsBuffer",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
       "Notes": "Scaffolded by repair; triggers to be filled by scanner",
-      "Ticker UUID": "TCKR-610b2a08"
+      "Ticker UUID": "4322fb04-3bc6-4f68-80ee-6c261c9e1a3e"
     },
     {
       "Ticker": "CRCL",
@@ -278,7 +278,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "EarningsBuffer",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
       "Notes": "Scaffolded by repair; triggers to be filled by scanner",
-      "Ticker UUID": "TCKR-3fbe2509"
+      "Ticker UUID": "2fe82569-68d4-4310-9a7d-b77e85cb0817"
     }
   ]
 }

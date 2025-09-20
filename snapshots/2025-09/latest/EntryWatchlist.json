@@ -43,7 +43,7 @@
       "Recommendation": "Watch",
       "MissingSignals": "",
       "BounceScore": "--",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -52,7 +52,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "C",
       "Notes": "Borderline RSI, MACD hook but inconsistent",
-      "Ticker UUID": ""
+      "Ticker UUID": "c9348df4-aad3-43c7-8b16-30e1d20bcb55"
     },
     {
       "Ticker": "TGT",
@@ -70,7 +70,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "--",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -79,7 +79,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "Stale metrics, incomplete data",
-      "Ticker UUID": ""
+      "Ticker UUID": "808a38b6-419f-4e59-80c3-99a2b9413f23"
     },
     {
       "Ticker": "MRO",
@@ -97,7 +97,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -106,7 +106,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "b5320452-08de-4013-8f88-d33667f48601"
     },
     {
       "Ticker": "INTC",
@@ -124,7 +124,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "--",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -133,7 +133,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "C",
       "Notes": "Stale metrics, patch required",
-      "Ticker UUID": ""
+      "Ticker UUID": "fa480ff2-e734-4ecb-b589-0e6dc3ab800d"
     },
     {
       "Ticker": "KO",
@@ -151,7 +151,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -160,7 +160,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "f1acdd42-85bb-41d0-aa78-1d2f3eacb9dd"
     },
     {
       "Ticker": "CL",
@@ -178,7 +178,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -187,7 +187,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "a061ef75-6a20-429b-a2f5-506f82b4c756"
     },
     {
       "Ticker": "VZ",
@@ -205,7 +205,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -214,7 +214,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "e20ae7e5-9d8b-4fad-b5cd-ef7ec98354f3"
     },
     {
       "Ticker": "CAG",
@@ -232,7 +232,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -241,7 +241,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "bfa820ce-2fbe-4c36-a81f-1ae4c771f36a"
     },
     {
       "Ticker": "KHC",
@@ -259,7 +259,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -268,7 +268,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "9c3d1edf-2e84-4b40-abe5-e142dacfb089"
     },
     {
       "Ticker": "GE",
@@ -286,7 +286,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -295,7 +295,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "a88874e1-ad6a-4217-915a-ad1e65d2a317"
     },
     {
       "Ticker": "ETSY",
@@ -313,7 +313,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -322,7 +322,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "be7fb738-667b-4138-90a3-3729feecc79d"
     },
     {
       "Ticker": "BMY",
@@ -340,7 +340,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -349,7 +349,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "a48297e1-ca77-4413-98eb-a347c011102e"
     },
     {
       "Ticker": "CNC",
@@ -367,7 +367,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -376,7 +376,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "ae910086-47cb-4f7f-8e50-395cc559af70"
     },
     {
       "Ticker": "NOK",
@@ -394,7 +394,7 @@
       "Recommendation": "Watch",
       "MissingSignals": "MACD reversal, stronger RSI",
       "BounceScore": "Medium",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -403,7 +403,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "Oversold but missing MACD/RSI confirmation",
-      "Ticker UUID": ""
+      "Ticker UUID": "793dadd1-9aa7-486c-a75a-77685c29b5ac"
     },
     {
       "Ticker": "ASML",
@@ -421,7 +421,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -430,7 +430,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "65ee012e-733a-4c82-969f-e15d87adf88f"
     },
     {
       "Ticker": "CHWY",
@@ -448,7 +448,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -457,7 +457,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "",
       "Notes": "Closed trade; removed from active watchlist",
-      "Ticker UUID": ""
+      "Ticker UUID": "d2e80199-d505-40b8-96d5-c4506faf3115"
     },
     {
       "Ticker": "BX",
@@ -475,7 +475,7 @@
       "Recommendation": "Watch",
       "MissingSignals": "",
       "BounceScore": "High",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -484,7 +484,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "C",
       "Notes": "Oversold candidate, MACD not fully turned",
-      "Ticker UUID": ""
+      "Ticker UUID": "c26efc67-923a-408b-a63e-9e881620ebf6"
     },
     {
       "Ticker": "CRWD",
@@ -502,7 +502,7 @@
       "Recommendation": "Hold",
       "MissingSignals": "%B<=0.05, MACD hook/cross, Earnings>=35d",
       "BounceScore": "Low",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": 2,
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -511,7 +511,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Blocked by earnings buffer <35d",
-      "Ticker UUID": ""
+      "Ticker UUID": "50287728-c961-4126-a034-6f8273904330"
     },
     {
       "Ticker": "CLX",
@@ -529,7 +529,7 @@
       "Recommendation": "Watch",
       "MissingSignals": "",
       "BounceScore": "High",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -538,7 +538,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "B",
       "Notes": "Deep oversold, MACD cross but confirmation pending",
-      "Ticker UUID": ""
+      "Ticker UUID": "8fc95cb7-077e-439e-8a39-790cb190d9b8"
     },
     {
       "Ticker": "CMG",
@@ -556,7 +556,7 @@
       "Recommendation": "Entry Ready",
       "MissingSignals": "",
       "BounceScore": "High",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -565,7 +565,7 @@
       "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
       "Confidence (A/B/C)": "B",
       "Notes": "Confirmed oversold bounce with MACD cross, RSI recovery, volZ surge",
-      "Ticker UUID": ""
+      "Ticker UUID": "01aaada4-8836-4cdf-972a-d580c11c519a"
     },
     {
       "Ticker": "PODD",
@@ -583,7 +583,7 @@
       "Recommendation": "Hold",
       "MissingSignals": "",
       "BounceScore": "Low",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -592,7 +592,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Oversold but not actionable",
-      "Ticker UUID": ""
+      "Ticker UUID": "6032f317-cd11-4313-ae73-8ef262121458"
     },
     {
       "Ticker": "MEDP",
@@ -610,7 +610,7 @@
       "Recommendation": "Entry Ready",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -619,7 +619,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Breakout validated, still in buy zone",
-      "Ticker UUID": ""
+      "Ticker UUID": "d8a1a203-ffdf-4754-9598-753e26fa0fe3"
     },
     {
       "Ticker": "LDOS",
@@ -637,7 +637,7 @@
       "Recommendation": "Review",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -646,7 +646,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "RSI mid‑50s, MACD positive, above MAs. External data supports near pivot. Candidate for early entry if risk/pivot criteria met.",
-      "Ticker UUID": ""
+      "Ticker UUID": "14058c89-d78c-4798-a6b0-a23570d295bf"
     },
     {
       "Ticker": "AMZN",
@@ -664,7 +664,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -673,7 +673,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Near buy point; confirm RS vs SPY & sector >1.05 before trigger.",
-      "Ticker UUID": ""
+      "Ticker UUID": "82b718af-d303-4e65-9c2f-2b9858ce1da6"
     },
     {
       "Ticker": "NFLX",
@@ -691,7 +691,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -700,7 +700,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Near buy area; prefer 50-DMA reclaim + through-pivot close on volume.",
-      "Ticker UUID": ""
+      "Ticker UUID": "314a269c-dfac-4452-bcc2-9acb9a0dba5d"
     },
     {
       "Ticker": "SPOT",
@@ -718,7 +718,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -727,7 +727,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "In/near buy zone recently; require volume surge through pivot.",
-      "Ticker UUID": ""
+      "Ticker UUID": "05fe0b14-0d27-402b-ad5e-062b15e32685"
     },
     {
       "Ticker": "DLTR",
@@ -745,7 +745,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -754,7 +754,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Post-ER dip; look for reversal candle + ≥1.2× vol then 2R plan.",
-      "Ticker UUID": ""
+      "Ticker UUID": "67bb7d91-7bb6-4773-82c9-4ab716588d90"
     },
     {
       "Ticker": "KDP",
@@ -772,7 +772,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -781,7 +781,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Confirm RSI/vol dry-up before trigger.",
-      "Ticker UUID": ""
+      "Ticker UUID": "de33ac14-1e81-4b96-88f9-a95aede07277"
     },
     {
       "Ticker": "HRL",
@@ -799,7 +799,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -808,7 +808,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Confirm RSI/vol dry-up before trigger.",
-      "Ticker UUID": ""
+      "Ticker UUID": "8b0b0a50-ae59-43b9-ad98-5388b0d91343"
     },
     {
       "Ticker": "K",
@@ -826,7 +826,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -835,7 +835,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Confirm RSI/vol dry-up before trigger.",
-      "Ticker UUID": ""
+      "Ticker UUID": "4dbf9d24-96cd-440a-a5e4-42a5c93297d9"
     },
     {
       "Ticker": "STZ",
@@ -853,7 +853,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -862,7 +862,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "ER revised to Oct 6; ensure ≥15 trading-day buffer before new entry.",
-      "Ticker UUID": ""
+      "Ticker UUID": "54855bd0-5134-4f3e-aa95-c61fdd0240af"
     },
     {
       "Ticker": "FIX",
@@ -880,7 +880,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -889,7 +889,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Tight pattern but today’s article cites breakout past 733.25; wait for tight pullback toward 720± with volume dry-up.",
-      "Ticker UUID": ""
+      "Ticker UUID": "468dfba6-b40e-465b-8845-63b3cf866aca"
     },
     {
       "Ticker": "ORCL",
@@ -907,7 +907,7 @@
       "Recommendation": "Watch",
       "MissingSignals": "Volume confirmation, %B hook",
       "BounceScore": "Medium",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -916,7 +916,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Bounce pending but MACD still down",
-      "Ticker UUID": ""
+      "Ticker UUID": "984f6a8b-523b-4a47-80bd-ab11dda69fd4"
     },
     {
       "Ticker": "NVDA",
@@ -934,7 +934,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -961,7 +961,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -988,7 +988,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1015,7 +1015,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1042,7 +1042,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1069,7 +1069,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1096,7 +1096,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1123,7 +1123,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1150,7 +1150,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1159,7 +1159,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Likely below $20M/day; confirm before considering.",
-      "Ticker UUID": ""
+      "Ticker UUID": "93bc6471-bfff-491d-96e6-02a838717a16"
     },
     {
       "Ticker": "FLNG",
@@ -1177,7 +1177,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1186,7 +1186,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Potentially below $20M/day; confirm.",
-      "Ticker UUID": ""
+      "Ticker UUID": "ecafc2a1-7cfe-4331-a35f-4f7386e19e1e"
     },
     {
       "Ticker": "PFS",
@@ -1204,7 +1204,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1213,7 +1213,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Regional bank; confirm dollar-volume.",
-      "Ticker UUID": ""
+      "Ticker UUID": "be3f65e1-f25d-4c15-9d80-a3746b3bf20b"
     },
     {
       "Ticker": "AFL",
@@ -1231,7 +1231,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1240,7 +1240,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Closed trade; removed from active watchlist",
-      "Ticker UUID": ""
+      "Ticker UUID": "df9db6d8-70cf-4956-961c-5188d9dedad0"
     },
     {
       "Ticker": "GME",
@@ -1258,7 +1258,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1267,7 +1267,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Closed trade; removed from active watchlist",
-      "Ticker UUID": ""
+      "Ticker UUID": "c34ffc36-e5db-42c3-b832-31f872b44074"
     },
     {
       "Ticker": "CFG",
@@ -1285,7 +1285,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1294,7 +1294,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Closed trade; removed from active watchlist",
-      "Ticker UUID": ""
+      "Ticker UUID": "333ae658-467d-4560-bab5-551514540dd8"
     },
     {
       "Ticker": "CPB",
@@ -1312,7 +1312,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1321,7 +1321,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Closed trade; removed from active watchlist",
-      "Ticker UUID": ""
+      "Ticker UUID": "d00e277f-11b3-4cb7-80ee-304f069b4cbe"
     },
     {
       "Ticker": "DOCU",
@@ -1339,7 +1339,7 @@
       "Recommendation": "Watch",
       "MissingSignals": "",
       "BounceScore": "Medium",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1348,7 +1348,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Oversold but not yet bouncing",
-      "Ticker UUID": ""
+      "Ticker UUID": "f4cd68b1-a623-43a3-ac77-211a4efc08b8"
     },
     {
       "Ticker": "MDLZ",
@@ -1366,7 +1366,7 @@
       "Recommendation": "Watch",
       "MissingSignals": "",
       "BounceScore": "Medium",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1375,7 +1375,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Oversold but not yet bouncing",
-      "Ticker UUID": ""
+      "Ticker UUID": "185ae9e2-08ab-41e4-a0fa-54d20c6150b2"
     },
     {
       "Ticker": "TXRH",
@@ -1393,7 +1393,7 @@
       "Recommendation": "Watch",
       "MissingSignals": "",
       "BounceScore": "Medium",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1402,7 +1402,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "Oversold but not yet bouncing",
-      "Ticker UUID": ""
+      "Ticker UUID": "5e1fbe38-bfea-431d-9a56-088b899cdc03"
     },
     {
       "Ticker": "BUD",
@@ -1420,7 +1420,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1447,7 +1447,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1474,7 +1474,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1501,7 +1501,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1510,7 +1510,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "14058c89-d78c-4798-a6b0-a23570d295bf"
     },
     {
       "Ticker": "MEDP",
@@ -1528,7 +1528,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1537,7 +1537,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "d8a1a203-ffdf-4754-9598-753e26fa0fe3"
     },
     {
       "Ticker": "PODD",
@@ -1555,7 +1555,7 @@
       "Recommendation": "",
       "MissingSignals": "",
       "BounceScore": "",
-      "NextCheckAt (ISO8601)": "",
+      "NextCheckAt (ISO8601)": "2025-09-21T14:00:00.000Z",
       "EarningsBufferDays": "",
       "SectorSlotOK (Y/N)": "",
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
@@ -1564,7 +1564,7 @@
       "ProposedSize (Full|1/2|1/3)": "",
       "Confidence (A/B/C)": "",
       "Notes": "",
-      "Ticker UUID": ""
+      "Ticker UUID": "6032f317-cd11-4313-ae73-8ef262121458"
     }
   ]
 }
