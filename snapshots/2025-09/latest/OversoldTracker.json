@@ -236,7 +236,7 @@
     },
     {
       "Ticker": "NVTS",
-      "Current Price": "",
+      "Current Price": 7.01,
       "RSI": 41.3135,
       "MACD Signal": "down",
       "BB Position": "LowerBand",
