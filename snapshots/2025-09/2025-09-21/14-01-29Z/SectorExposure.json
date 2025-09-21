@@ -1,0 +1,54 @@
+{
+  "columns": [
+    "Sector",
+    "Tickers Held",
+    "Count",
+    "Quota Max",
+    "Overexposed? (Y/N)",
+    "% of Portfolio (by count)",
+    "Notes",
+    "% of Portfolio (by value)"
+  ],
+  "rows": [
+    {
+      "Sector": "Consumer Cyclical",
+      "Tickers Held": "CHWY, CPRT, BBWI, GME",
+      "Count": 4,
+      "Quota Max": "Y",
+      "Overexposed? (Y/N)": "",
+      "% of Portfolio (by count)": "",
+      "Notes": "",
+      "% of Portfolio (by value)": ""
+    },
+    {
+      "Sector": "Consumer Defensive",
+      "Tickers Held": "CPB, SJM",
+      "Count": 2,
+      "Quota Max": "N",
+      "Overexposed? (Y/N)": "",
+      "% of Portfolio (by count)": "",
+      "Notes": "",
+      "% of Portfolio (by value)": ""
+    },
+    {
+      "Sector": "Financial Services",
+      "Tickers Held": "AFL, CFG, CRCL",
+      "Count": 3,
+      "Quota Max": "N",
+      "Overexposed? (Y/N)": "",
+      "% of Portfolio (by count)": "",
+      "Notes": "",
+      "% of Portfolio (by value)": ""
+    },
+    {
+      "Sector": "Technology",
+      "Tickers Held": "ERIC, RBRK, SMCI, NVTS",
+      "Count": 4,
+      "Quota Max": "Y",
+      "Overexposed? (Y/N)": "",
+      "% of Portfolio (by count)": "",
+      "Notes": "",
+      "% of Portfolio (by value)": ""
+    }
+  ]
+}
