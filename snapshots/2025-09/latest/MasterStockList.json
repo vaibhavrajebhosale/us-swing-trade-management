@@ -1771,7 +1771,7 @@
     {
       "Ticker": "SJM",
       "Ticker UUID": "71529755-0b2e-4eec-b881-d70feeaf16b4",
-      "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
+      "Status (Active|NextCycle|Excluded|Archived)": "Active",
       "WatchlistPriority (1-5)": 3,
       "StrongEarningsHistory (Y/N)": "N",
       "RSI": 65.1644,
@@ -1805,7 +1805,7 @@
     {
       "Ticker": "ERIC",
       "Ticker UUID": "8c66d8b0-32a7-44f8-8a28-d674094a0022",
-      "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
+      "Status (Active|NextCycle|Excluded|Archived)": "Active",
       "WatchlistPriority (1-5)": 3,
       "StrongEarningsHistory (Y/N)": "N",
       "RSI": 52.7395,
@@ -1975,7 +1975,7 @@
     {
       "Ticker": "RBRK",
       "Ticker UUID": "959727a3-a24d-47f1-9410-30523ae1669f",
-      "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
+      "Status (Active|NextCycle|Excluded|Archived)": "Active",
       "WatchlistPriority (1-5)": 3,
       "StrongEarningsHistory (Y/N)": "N",
       "RSI": 46.3045,
@@ -2145,7 +2145,7 @@
     {
       "Ticker": "CRCL",
       "Ticker UUID": "2fe82569-68d4-4310-9a7d-b77e85cb0817",
-      "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
+      "Status (Active|NextCycle|Excluded|Archived)": "Active",
       "WatchlistPriority (1-5)": 3,
       "StrongEarningsHistory (Y/N)": "N",
       "RSI": 38.0253,
@@ -2995,7 +2995,7 @@
     {
       "Ticker": "CFG",
       "Ticker UUID": "333ae658-467d-4560-bab5-551514540dd8",
-      "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
+      "Status (Active|NextCycle|Excluded|Archived)": "Archived",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
       "RSI": "",
@@ -3007,7 +3007,7 @@
       "LastScanAt (ISO8601)": "",
       "SectorSlotOK (Y/N)": "Y",
       "KillSwitchOK (Y/N)": "Y",
-      "WashSaleCooldownUntil": "Fri Oct 03 2025 00:00:00 GMT-0500 (Central Daylight Time)",
+      "WashSaleCooldownUntil": "2025-10-11T00:00:00.000Z",
       "DoNotTradeUntil": "",
       "Avg Return % (Backtest)": "",
       "Hit Rate % (Backtest)": "",
@@ -3029,7 +3029,7 @@
     {
       "Ticker": "CPB",
       "Ticker UUID": "d00e277f-11b3-4cb7-80ee-304f069b4cbe",
-      "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
+      "Status (Active|NextCycle|Excluded|Archived)": "Archived",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
       "RSI": "",
@@ -3097,7 +3097,7 @@
     {
       "Ticker": "CPRT",
       "Ticker UUID": "ef900021-909f-4e9d-b97e-24321a7dd241",
-      "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
+      "Status (Active|NextCycle|Excluded|Archived)": "Active",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
       "RSI": "",
@@ -3131,7 +3131,7 @@
     {
       "Ticker": "BBWI",
       "Ticker UUID": "3bec5ccc-9eda-48d9-b646-6742777b8e93",
-      "Status (Active|NextCycle|Excluded|Archived)": "NextCycle",
+      "Status (Active|NextCycle|Excluded|Archived)": "Active",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
       "RSI": "",
@@ -3267,7 +3267,7 @@
     {
       "Ticker": "SMCI",
       "Ticker UUID": "c8943e32-4443-4c74-a0b6-9dcf0aa78a30",
-      "Status (Active|NextCycle|Excluded|Archived)": "",
+      "Status (Active|NextCycle|Excluded|Archived)": "Active",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
       "RSI": "",
