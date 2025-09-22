@@ -46,13 +46,13 @@
       "VolZ": 20.94,
       "Next Earnings Date": "2025-11-18T00:00:00.000Z",
       "EarningsBufferDays": 80,
-      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Bounce Pending",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Suppressed",
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "MACD hook/cross",
-      "Notes": "",
+      "Notes": "Active holding — remove from Oversold",
       "Ticker UUID": "808a38b6-419f-4e59-80c3-99a2b9413f23",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-10-21T14:00:00.000Z"
     },
     {
       "Ticker": "NOK",
@@ -226,13 +226,13 @@
       "VolZ": -1.44,
       "Next Earnings Date": "",
       "EarningsBufferDays": "",
-      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Oversold",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Suppressed",
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
-      "Notes": "",
+      "Notes": "Active holding — remove from Oversold",
       "Ticker UUID": "4322fb04-3bc6-4f68-80ee-6c261c9e1a3e",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-10-21T14:00:00.000Z"
     },
     {
       "Ticker": "PLTR",
@@ -244,13 +244,13 @@
       "VolZ": 0.48,
       "Next Earnings Date": "",
       "EarningsBufferDays": "",
-      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Oversold",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Suppressed",
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
-      "Notes": "",
+      "Notes": "Active holding — remove from Oversold",
       "Ticker UUID": "8f425d01-b2c3-4058-bb48-6ab3ce9f1ec6",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-10-21T14:00:00.000Z"
     },
     {
       "Ticker": "BX",

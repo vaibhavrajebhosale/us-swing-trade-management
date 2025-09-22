@@ -35,9 +35,9 @@
       "ATR Stop Triggered?": "",
       "TP Hit?": "",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger (Earnings|ATR|RSI|MACD)": "DaysHeld>40",
+      "Exit Trigger (Earnings|ATR|RSI|MACD)": "DayWindow>40",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "Auto-flagged Sep 8, 2025: held 79d, beyond 40d window",
+      "Notes": "Held >40d, return -15%",
       "Ticker UUID": "ef900021-909f-4e9d-b97e-24321a7dd241"
     },
     {
@@ -55,9 +55,9 @@
       "ATR Stop Triggered?": "Y",
       "TP Hit?": "",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger (Earnings|ATR|RSI|MACD)": "DaysHeld>40",
+      "Exit Trigger (Earnings|ATR|RSI|MACD)": "MACD_Roll",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "Auto-flagged Sep 8, 2025: held 86d, beyond 40d window",
+      "Notes": "Day>40, MACD rollover, ATR stop",
       "Ticker UUID": "8c66d8b0-32a7-44f8-8a28-d674094a0022"
     },
     {
@@ -75,9 +75,9 @@
       "ATR Stop Triggered?": "",
       "TP Hit?": "",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger (Earnings|ATR|RSI|MACD)": "Earnings ≤7d",
+      "Exit Trigger (Earnings|ATR|RSI|MACD)": "Earnings≤7d",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "ER Sep 4 risk",
+      "Notes": "ER Sep 4, buffer breach",
       "Ticker UUID": "71529755-0b2e-4eec-b881-d70feeaf16b4"
     },
     {
@@ -95,9 +95,9 @@
       "ATR Stop Triggered?": "",
       "TP Hit?": "",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger (Earnings|ATR|RSI|MACD)": "DaysHeld>40",
+      "Exit Trigger (Earnings|ATR|RSI|MACD)": "DayWindow>40",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "Auto-flagged Sep 8, 2025: held 60d, beyond 40d window",
+      "Notes": "Held >40d, return -15%",
       "Ticker UUID": "3bec5ccc-9eda-48d9-b646-6742777b8e93"
     },
     {
@@ -115,9 +115,9 @@
       "ATR Stop Triggered?": "",
       "TP Hit?": "",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger (Earnings|ATR|RSI|MACD)": "Earnings ≤7d",
+      "Exit Trigger (Earnings|ATR|RSI|MACD)": "Earnings≤7d",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "ER Sep 4 risk",
+      "Notes": "ER Sep 4, buffer breach",
       "Ticker UUID": "959727a3-a24d-47f1-9410-30523ae1669f"
     },
     {
@@ -135,9 +135,9 @@
       "ATR Stop Triggered?": "",
       "TP Hit?": "",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger (Earnings|ATR|RSI|MACD)": "Earnings passed",
+      "Exit Trigger (Earnings|ATR|RSI|MACD)": "Earnings≤7d",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "ER Aug 7 passed",
+      "Notes": "ER Aug 7, buffer passed",
       "Ticker UUID": "c8943e32-4443-4c74-a0b6-9dcf0aa78a30"
     },
     {
@@ -155,9 +155,9 @@
       "ATR Stop Triggered?": "",
       "TP Hit?": "",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger (Earnings|ATR|RSI|MACD)": "EarningsBuffer",
+      "Exit Trigger (Earnings|ATR|RSI|MACD)": "MACD_Roll",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "Scaffolded by repair; triggers to be filled by scanner",
+      "Notes": "MACD down, scaffold exit",
       "Ticker UUID": "4322fb04-3bc6-4f68-80ee-6c261c9e1a3e"
     },
     {
@@ -175,9 +175,9 @@
       "ATR Stop Triggered?": "",
       "TP Hit?": "",
       "RuleSet (Pre-Oct|Post-Oct)": "Pre-Oct",
-      "Exit Trigger (Earnings|ATR|RSI|MACD)": "EarningsBuffer",
+      "Exit Trigger (Earnings|ATR|RSI|MACD)": "MACD_Roll",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "ExitNow",
-      "Notes": "Scaffolded by repair; triggers to be filled by scanner",
+      "Notes": "MACD down, scaffold exit",
       "Ticker UUID": "2fe82569-68d4-4310-9a7d-b77e85cb0817"
     }
   ]
