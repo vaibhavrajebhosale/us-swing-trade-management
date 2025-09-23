@@ -377,6 +377,42 @@
       "Notes": "ER Oct 20 (~28d away). Too close. Eligible post-ER.",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": "2025-10-21T10:00:00-04:00"
+    },
+    {
+      "Ticker": "STZ",
+      "Current Price": "",
+      "RSI": "",
+      "MACD Signal": "",
+      "BB Position": "",
+      "%B": "",
+      "VolZ": "",
+      "Next Earnings Date": "",
+      "EarningsBufferDays": "",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Post-ER",
+      "Additional Matched Entry Tags": "",
+      "PostEarningsRebound (Y/N)": "",
+      "MissingSignals": "",
+      "Notes": "Deep oversold (RSI ~20) but ER Oct 6–7; only eligible post-ER rebound.",
+      "Ticker UUID": "",
+      "NextCheckAt (ISO8601)": ""
+    },
+    {
+      "Ticker": "CAG",
+      "Current Price": "",
+      "RSI": "",
+      "MACD Signal": "",
+      "BB Position": "",
+      "%B": "",
+      "VolZ": "",
+      "Next Earnings Date": "",
+      "EarningsBufferDays": "",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Post-ER",
+      "Additional Matched Entry Tags": "",
+      "PostEarningsRebound (Y/N)": "",
+      "MissingSignals": "",
+      "Notes": "Oversold (RSI ~29–35) but ER Oct 1; only eligible post-ER rebound.",
+      "Ticker UUID": "",
+      "NextCheckAt (ISO8601)": ""
     }
   ]
 }
