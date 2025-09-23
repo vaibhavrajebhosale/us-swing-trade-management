@@ -198,7 +198,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "",
       "Notes": "Breach 10d hold limit (16d)",
-      "Ticker UUID": ""
+      "Ticker UUID": "808a38b6-419f-4e59-80c3-99a2b9413f23"
     },
     {
       "Ticker": "PLTR",
@@ -218,7 +218,7 @@
       "Exit Trigger (Earnings|ATR|RSI|MACD)": "",
       "RecommendedAction (ExitNow|ScaleOut|Hold|Review)": "",
       "Notes": "Breach 10d hold limit (12d)",
-      "Ticker UUID": ""
+      "Ticker UUID": "8f425d01-b2c3-4058-bb48-6ab3ce9f1ec6"
     }
   ]
 }

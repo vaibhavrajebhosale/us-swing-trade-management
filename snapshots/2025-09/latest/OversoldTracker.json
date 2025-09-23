@@ -32,9 +32,9 @@
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross",
-      "Notes": "RSI ~41-44, MACD still negative. Not yet bouncing.",
+      "Notes": "ER Oct 28 (BMO). Eligible; RSI<45 + hook at lower band.",
       "Ticker UUID": "c9348df4-aad3-43c7-8b16-30e1d20bcb55",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "TGT",
@@ -70,7 +70,7 @@
       "MissingSignals": "%B≤0.05, MACD hook/cross",
       "Notes": "Still in oversold; no bounce signal yet.",
       "Ticker UUID": "793dadd1-9aa7-486c-a75a-77685c29b5ac",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "BX",
@@ -88,7 +88,7 @@
       "MissingSignals": "MACD hook/cross",
       "Notes": "RSI high, MACD positive. Not oversold candidate.",
       "Ticker UUID": "c26efc67-923a-408b-a63e-9e881620ebf6",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "CRWD",
@@ -106,7 +106,7 @@
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
       "Notes": "",
       "Ticker UUID": "50287728-c961-4126-a034-6f8273904330",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "CMG",
@@ -124,7 +124,7 @@
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
       "Notes": "RSI ~35; short‑term momentum weak; trend down; potential bounce setup if MACD hooks.",
       "Ticker UUID": "01aaada4-8836-4cdf-972a-d580c11c519a",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "TXRH",
@@ -136,13 +136,13 @@
       "VolZ": -0.26,
       "Next Earnings Date": "",
       "EarningsBufferDays": "",
-      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Bounce Pending",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Oversold",
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, Earnings≥35d",
-      "Notes": "Close to oversold; MACD still down; waiting for reversal signal.",
+      "Notes": "ER Oct 23 (~30d). Eligible; promote on hook.",
       "Ticker UUID": "5e1fbe38-bfea-431d-9a56-088b899cdc03",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "CLX",
@@ -154,13 +154,13 @@
       "VolZ": -0.21,
       "Next Earnings Date": "",
       "EarningsBufferDays": "",
-      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "None",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Oversold",
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "N",
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
-      "Notes": "RSI ~44‑51; MACD negative; price ~mid bands. Not oversold enough.",
+      "Notes": "ER Oct 29–31, 2025 → runway OK. Eligible; buy only on MACD hook in defined buy box.",
       "Ticker UUID": "8fc95cb7-077e-439e-8a39-790cb190d9b8",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "MDLZ",
@@ -178,7 +178,7 @@
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
       "Notes": "Weak trend; MACD negative; RSI low‑mid; no bounce yet.",
       "Ticker UUID": "185ae9e2-08ab-41e4-a0fa-54d20c6150b2",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "DOCU",
@@ -196,7 +196,7 @@
       "MissingSignals": "%B≤0.05, Earnings≥35d",
       "Notes": "RSI ~59.6; MACD +0.42; price above shorter MAs; not oversold.",
       "Ticker UUID": "f4cd68b1-a623-43a3-ac77-211a4efc08b8",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "CRCL",
@@ -214,7 +214,7 @@
       "MissingSignals": "%B≤0.05, MACD hook/cross, Earnings≥35d",
       "Notes": "",
       "Ticker UUID": "2fe82569-68d4-4310-9a7d-b77e85cb0817",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "NVTS",
@@ -268,7 +268,7 @@
       "MissingSignals": "MACD hook/cross",
       "Notes": "",
       "Ticker UUID": "c26efc67-923a-408b-a63e-9e881620ebf6",
-      "NextCheckAt (ISO8601)": "2025-09-22T14:00:00.000Z"
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "ORCL",
@@ -303,8 +303,8 @@
       "PostEarningsRebound (Y/N)": "",
       "MissingSignals": "",
       "Notes": "RSI<45, ER Oct 31. Near-ready if MACD hook appears.",
-      "Ticker UUID": "",
-      "NextCheckAt (ISO8601)": "2025-09-22T15:00:00-04:00"
+      "Ticker UUID": "a061ef75-6a20-429b-a2f5-506f82b4c756",
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "KO",
@@ -316,12 +316,12 @@
       "VolZ": "",
       "Next Earnings Date": "",
       "EarningsBufferDays": "",
-      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Bounce Pending",
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "",
       "MissingSignals": "",
-      "Notes": "Fails ≥35d buffer (ER Oct 22). Re-evaluate post-ER.",
-      "Ticker UUID": "",
+      "Notes": "ER Oct 21–22. Eligible but not oversold yet. Stage, wait for RSI<45.",
+      "Ticker UUID": "f1acdd42-85bb-41d0-aa78-1d2f3eacb9dd",
       "NextCheckAt (ISO8601)": "2025-10-23T10:00:00-04:00"
     },
     {
@@ -352,13 +352,13 @@
       "VolZ": "",
       "Next Earnings Date": "",
       "EarningsBufferDays": "",
-      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Oversold",
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "",
       "MissingSignals": "",
-      "Notes": "RSI<45, ER Oct 30. Near-ready if MACD hook appears.",
-      "Ticker UUID": "",
-      "NextCheckAt (ISO8601)": "2025-09-22T15:00:00-04:00"
+      "Notes": "ER Oct 30, 2025. Eligible; oversold, need MACD hook.",
+      "Ticker UUID": "a48297e1-ca77-4413-98eb-a347c011102e",
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "MEDP",
@@ -370,12 +370,12 @@
       "VolZ": "",
       "Next Earnings Date": "",
       "EarningsBufferDays": "",
-      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Bounce Pending",
       "Additional Matched Entry Tags": "",
       "PostEarningsRebound (Y/N)": "",
       "MissingSignals": "",
-      "Notes": "ER Oct 20 (~28d away). Too close. Eligible post-ER.",
-      "Ticker UUID": "",
+      "Notes": "ER Oct 20. Eligible but not yet oversold; stage for later.",
+      "Ticker UUID": "d8a1a203-ffdf-4754-9598-753e26fa0fe3",
       "NextCheckAt (ISO8601)": "2025-10-21T10:00:00-04:00"
     },
     {
@@ -386,15 +386,15 @@
       "BB Position": "",
       "%B": "",
       "VolZ": "",
-      "Next Earnings Date": "",
-      "EarningsBufferDays": "",
-      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Post-ER",
-      "Additional Matched Entry Tags": "",
-      "PostEarningsRebound (Y/N)": "",
-      "MissingSignals": "",
-      "Notes": "Deep oversold (RSI ~20) but ER Oct 6–7; only eligible post-ER rebound.",
-      "Ticker UUID": "",
-      "NextCheckAt (ISO8601)": ""
+      "Next Earnings Date": "2025-10-06T05:00:00.000Z",
+      "EarningsBufferDays": 14,
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Entry Ready",
+      "Additional Matched Entry Tags": "Post-ER Rebound",
+      "PostEarningsRebound (Y/N)": "Y",
+      "MissingSignals": "None",
+      "Notes": "Deep oversold; ER Oct 6–7, 2025. Eligible only post-ER rebound.",
+      "Ticker UUID": "54855bd0-5134-4f3e-aa95-c61fdd0240af",
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
     },
     {
       "Ticker": "CAG",
@@ -411,6 +411,78 @@
       "PostEarningsRebound (Y/N)": "",
       "MissingSignals": "",
       "Notes": "Oversold (RSI ~29–35) but ER Oct 1; only eligible post-ER rebound.",
+      "Ticker UUID": "bfa820ce-2fbe-4c36-a81f-1ae4c771f36a",
+      "NextCheckAt (ISO8601)": "2025-09-23T14:00:00.000Z"
+    },
+    {
+      "Ticker": "K",
+      "Current Price": "",
+      "RSI": "",
+      "MACD Signal": "",
+      "BB Position": "",
+      "%B": "",
+      "VolZ": "",
+      "Next Earnings Date": "",
+      "EarningsBufferDays": "",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Oversold",
+      "Additional Matched Entry Tags": "",
+      "PostEarningsRebound (Y/N)": "",
+      "MissingSignals": "",
+      "Notes": "ER Oct 30 (BMO). Eligible; watch RSI<45 + MACD hook.",
+      "Ticker UUID": "",
+      "NextCheckAt (ISO8601)": ""
+    },
+    {
+      "Ticker": "DLTR",
+      "Current Price": "",
+      "RSI": "",
+      "MACD Signal": "",
+      "BB Position": "",
+      "%B": "",
+      "VolZ": "",
+      "Next Earnings Date": "",
+      "EarningsBufferDays": "",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Oversold",
+      "Additional Matched Entry Tags": "",
+      "PostEarningsRebound (Y/N)": "",
+      "MissingSignals": "",
+      "Notes": "ER late Nov / early Dec. Eligible; sub-45 RSI, wait for hook.",
+      "Ticker UUID": "",
+      "NextCheckAt (ISO8601)": ""
+    },
+    {
+      "Ticker": "KDP",
+      "Current Price": "",
+      "RSI": "",
+      "MACD Signal": "",
+      "BB Position": "",
+      "%B": "",
+      "VolZ": "",
+      "Next Earnings Date": "",
+      "EarningsBufferDays": "",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Oversold",
+      "Additional Matched Entry Tags": "",
+      "PostEarningsRebound (Y/N)": "",
+      "MissingSignals": "",
+      "Notes": "ER Oct 23–26. Eligible; deep oversold, buy box set.",
+      "Ticker UUID": "",
+      "NextCheckAt (ISO8601)": ""
+    },
+    {
+      "Ticker": "HRL",
+      "Current Price": "",
+      "RSI": "",
+      "MACD Signal": "",
+      "BB Position": "",
+      "%B": "",
+      "VolZ": "",
+      "Next Earnings Date": "",
+      "EarningsBufferDays": "",
+      "Entry Zone Status (Oversold|Bounce Pending|Entry Ready)": "Oversold",
+      "Additional Matched Entry Tags": "",
+      "PostEarningsRebound (Y/N)": "",
+      "MissingSignals": "",
+      "Notes": "ER Dec 1–5. Eligible; oversold, hook required.",
       "Ticker UUID": "",
       "NextCheckAt (ISO8601)": ""
     }

@@ -97,7 +97,7 @@
       "Cycles Traded (Live)": "",
       "Last Traded Date": "",
       "DNT (Y/N)": "",
-      "Notes / Warnings": "ER date missing",
+      "Notes / Warnings": "ER Oct 28, 2025 (BMO) → eligible. Needs RSI<45 + hook at lower band.",
       "AddedAt (ISO8601)": "2025-08-18 22:09:06 CT",
       "LastReviewedAt (ISO8601)": "2025-08-21 21:00:54 CT",
       "PromotionSource": ""
@@ -233,7 +233,7 @@
       "Cycles Traded (Live)": "",
       "Last Traded Date": "",
       "DNT (Y/N)": "",
-      "Notes / Warnings": "Promoted via ValidateSweep Sep 5",
+      "Notes / Warnings": "ER Oct 21–22, 2025 → eligible but not yet oversold. Wait for RSI<45 + hook.",
       "AddedAt (ISO8601)": "2025-08-18 22:09:06 CT",
       "LastReviewedAt (ISO8601)": "2025-08-21 21:00:54 CT",
       "PromotionSource": ""
@@ -573,7 +573,7 @@
       "Cycles Traded (Live)": "",
       "Last Traded Date": "",
       "DNT (Y/N)": "",
-      "Notes / Warnings": "ER date missing",
+      "Notes / Warnings": "ER Oct 30, 2025 → eligible. Near oversold; buy only on hook.",
       "AddedAt (ISO8601)": "2025-08-18 22:09:07 CT",
       "LastReviewedAt (ISO8601)": "2025-08-21 21:00:54 CT",
       "PromotionSource": ""
@@ -1185,7 +1185,7 @@
       "Cycles Traded (Live)": "",
       "Last Traded Date": "",
       "DNT (Y/N)": "",
-      "Notes / Warnings": "ER date missing",
+      "Notes / Warnings": "ER Oct 23, 2025 (~30d) → eligible. Already oversold; promote on hook.",
       "AddedAt (ISO8601)": "2025-08-18 22:09:08 CT",
       "LastReviewedAt (ISO8601)": "2025-08-21 21:00:55 CT",
       "PromotionSource": ""
@@ -1457,7 +1457,7 @@
       "Cycles Traded (Live)": "",
       "Last Traded Date": "",
       "DNT (Y/N)": "",
-      "Notes / Warnings": "ER date missing",
+      "Notes / Warnings": "ER Oct 29–31, 2025 → eligible. Buy only on MACD hook inside buy box.",
       "AddedAt (ISO8601)": "2025-08-18 22:09:08 CT",
       "LastReviewedAt (ISO8601)": "2025-08-21 21:00:55 CT",
       "PromotionSource": ""
@@ -2409,7 +2409,7 @@
       "Cycles Traded (Live)": "",
       "Last Traded Date": "",
       "DNT (Y/N)": "",
-      "Notes / Warnings": "Added via AnalysisLog scan Sep 5",
+      "Notes / Warnings": "ER ~Oct 20, 2025 → eligible but not yet oversold. Watch for RSI<45 + hook.",
       "AddedAt (ISO8601)": "2025-08-21 21:00:55 CT",
       "LastReviewedAt (ISO8601)": "2025-08-21 21:00:55 CT",
       "PromotionSource": ""
@@ -2885,7 +2885,7 @@
       "Cycles Traded (Live)": "",
       "Last Traded Date": "",
       "DNT (Y/N)": "",
-      "Notes / Warnings": "Added via AnalysisLog scan Sep 5",
+      "Notes / Warnings": "ER late Nov / early Dec → eligible. Needs MACD hook after sub-45 RSI prints.",
       "AddedAt (ISO8601)": "",
       "LastReviewedAt (ISO8601)": "",
       "PromotionSource": ""
@@ -2919,7 +2919,7 @@
       "Cycles Traded (Live)": "",
       "Last Traded Date": "",
       "DNT (Y/N)": "",
-      "Notes / Warnings": "Added via AnalysisLog scan Sep 5",
+      "Notes / Warnings": "ER Oct 23–26, 2025 → eligible. Deep oversold; buy on hook in buy box.",
       "AddedAt (ISO8601)": "",
       "LastReviewedAt (ISO8601)": "",
       "PromotionSource": ""
@@ -2953,7 +2953,7 @@
       "Cycles Traded (Live)": "",
       "Last Traded Date": "",
       "DNT (Y/N)": "",
-      "Notes / Warnings": "Added via AnalysisLog scan Sep 5",
+      "Notes / Warnings": "ER Dec 1–5, 2025 → eligible. Oversold; wait for hook.",
       "AddedAt (ISO8601)": "",
       "LastReviewedAt (ISO8601)": "",
       "PromotionSource": ""
@@ -2987,7 +2987,7 @@
       "Cycles Traded (Live)": "",
       "Last Traded Date": "",
       "DNT (Y/N)": "",
-      "Notes / Warnings": "Added via AnalysisLog scan Sep 5",
+      "Notes / Warnings": "ER Oct 30, 2025 (BMO) → eligible. Same trigger as CLX.",
       "AddedAt (ISO8601)": "",
       "LastReviewedAt (ISO8601)": "",
       "PromotionSource": ""
