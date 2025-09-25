@@ -65,12 +65,12 @@
     },
     {
       "Ticker": "CMG",
-      "Exchange": "NYSE",
-      "Next Earnings Date": "Wed Oct 22 2025 00:00:00 GMT-0500 (Central Daylight Time)",
-      "NextEarningsTime (BMO/AMC/TBD)": "TBD",
+      "Exchange": "XNYS",
+      "Next Earnings Date": "2025-10-29T05:00:00.000Z",
+      "NextEarningsTime (BMO/AMC/TBD)": "AMC",
       "Status (Confirmed|Estimated)": "Confirmed",
-      "Source": "",
-      "SourceURL": "",
+      "Source": "TipRanks",
+      "SourceURL": "https://www.tipranks.com/stocks/cmg/earnings?utm_source=chatgpt.com",
       "Prior Known Date": "",
       "Delta (Days)": "",
       "Delta Flag": "",
@@ -79,9 +79,9 @@
       "≥ 35d Entry Window?": "Y",
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
-      "Notes": "",
+      "Notes": "Confirmed from TipRanks",
       "Composite Key (Ticker|Exchange)": "CMG|NYSE",
-      "LastCheckedAt (ISO8601)": "2025-08-31T21:03:19.395Z",
+      "LastCheckedAt (ISO8601)": "2025-09-24T09:00:00-05:00",
       "__Prev_Next_Earnings_Date": "Wed Oct 22 2025 00:00:00 GMT-0500 (Central Daylight Time)"
     },
     {
@@ -275,12 +275,12 @@
     },
     {
       "Ticker": "CLX",
-      "Exchange": "NYSE",
-      "Next Earnings Date": "Wed Oct 29 2025 00:00:00 GMT-0500 (Central Daylight Time)",
+      "Exchange": "XNYS",
+      "Next Earnings Date": "2025-10-29T05:00:00.000Z",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
-      "Status (Confirmed|Estimated)": "Confirmed",
-      "Source": "",
-      "SourceURL": "",
+      "Status (Confirmed|Estimated)": "Estimated",
+      "Source": "MarketBeat",
+      "SourceURL": "https://www.marketbeat.com/stocks/NYSE/CLX/earnings/?utm_source=chatgpt.com",
       "Prior Known Date": "",
       "Delta (Days)": "",
       "Delta Flag": "",
@@ -289,9 +289,9 @@
       "≥ 35d Entry Window?": "Y",
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
-      "Notes": "",
+      "Notes": "Estimated from MarketBeat",
       "Composite Key (Ticker|Exchange)": "CLX|NYSE",
-      "LastCheckedAt (ISO8601)": "2025-08-31T21:19:28.154Z",
+      "LastCheckedAt (ISO8601)": "2025-09-24T09:00:00-05:00",
       "__Prev_Next_Earnings_Date": "Wed Oct 29 2025 00:00:00 GMT-0500 (Central Daylight Time)"
     },
     {
@@ -1637,6 +1637,27 @@
       "Composite Key (Ticker|Exchange)": "DLTR|",
       "LastCheckedAt (ISO8601)": "2025-09-24T09:00:00-05:00",
       "__Prev_Next_Earnings_Date": "Fri Nov 21 2025 00:00:00 GMT-0600 (Central Standard Time)"
+    },
+    {
+      "Ticker": "NVDA",
+      "Exchange": "XNAS",
+      "Next Earnings Date": "2025-11-19T06:00:00.000Z",
+      "NextEarningsTime (BMO/AMC/TBD)": "TBD",
+      "Status (Confirmed|Estimated)": "Estimated",
+      "Source": "Zacks",
+      "SourceURL": "https://www.zacks.com/stock/research/NVDA/earnings-calendar?utm_source=chatgpt.com",
+      "Prior Known Date": "",
+      "Delta (Days)": "",
+      "Delta Flag": "",
+      "Days Until ER": "",
+      "≤ 7d Risk?": "",
+      "≥ 35d Entry Window?": "",
+      "RevisionCount": "",
+      "WeekendAdjust (Y/N)": "",
+      "Notes": "Estimated from Zacks",
+      "Composite Key (Ticker|Exchange)": "NVDA|NASDAQ",
+      "LastCheckedAt (ISO8601)": "2025-09-24T09:00:00-05:00",
+      "__Prev_Next_Earnings_Date": ""
     }
   ]
 }
