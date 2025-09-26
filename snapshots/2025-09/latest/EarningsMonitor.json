@@ -1556,7 +1556,7 @@
     },
     {
       "Ticker": "K",
-      "Exchange": "XNYS",
+      "Exchange": "",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "",
@@ -1571,13 +1571,13 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "K|XNYS",
+      "Composite Key (Ticker|Exchange)": "",
       "LastCheckedAt (ISO8601)": "2025-09-26T01:38:14.619Z",
       "__Prev_Next_Earnings_Date": ""
     },
     {
       "Ticker": "KDP",
-      "Exchange": "XNAS",
+      "Exchange": "",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "",
@@ -1592,13 +1592,13 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "KDP|XNAS",
+      "Composite Key (Ticker|Exchange)": "",
       "LastCheckedAt (ISO8601)": "2025-09-26T01:38:15.355Z",
       "__Prev_Next_Earnings_Date": ""
     },
     {
       "Ticker": "HRL",
-      "Exchange": "XNYS",
+      "Exchange": "",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "",
@@ -1613,13 +1613,13 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "HRL|XNYS",
+      "Composite Key (Ticker|Exchange)": "",
       "LastCheckedAt (ISO8601)": "2025-09-26T01:38:15.998Z",
       "__Prev_Next_Earnings_Date": ""
     },
     {
       "Ticker": "DLTR",
-      "Exchange": "XNAS",
+      "Exchange": "",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "",
@@ -1634,7 +1634,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "DLTR|XNAS",
+      "Composite Key (Ticker|Exchange)": "",
       "LastCheckedAt (ISO8601)": "2025-09-26T01:38:16.559Z",
       "__Prev_Next_Earnings_Date": ""
     }
