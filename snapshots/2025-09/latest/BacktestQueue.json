@@ -43,12 +43,12 @@
     {
       "Ticker": "MRO",
       "AddedAt (ISO)": "",
-      "Reason": "",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "2025-08-18 22:53:14 CT",
       "Notes": "Error: insufficient history",
       "AddedAt (ISO8601)": "",
-      "LastUpdated (ISO8601)": ""
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:35.786Z"
     },
     {
       "Ticker": "INTC",
@@ -63,12 +63,12 @@
     {
       "Ticker": "KO",
       "AddedAt (ISO)": "",
-      "Reason": "External Enqueue",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "2025-08-18 22:53:15 CT",
       "Notes": "via relay",
       "AddedAt (ISO8601)": "",
-      "LastUpdated (ISO8601)": "2025-09-26T03:47:35.250Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:36.415Z"
     },
     {
       "Ticker": "CL",
@@ -93,12 +93,12 @@
     {
       "Ticker": "DNUT",
       "AddedAt (ISO)": "",
-      "Reason": "External Enqueue",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "2025-08-18 22:53:17 CT",
       "Notes": "via relay",
       "AddedAt (ISO8601)": "2025-08-28T04:11:55.912Z",
-      "LastUpdated (ISO8601)": "2025-08-28T04:11:55.912Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:37.596Z"
     },
     {
       "Ticker": "CAG",
@@ -283,12 +283,12 @@
     {
       "Ticker": "PFE",
       "AddedAt (ISO)": "",
-      "Reason": "ValidatePromotion",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "2025-08-18 22:53:33 CT",
       "Notes": "",
       "AddedAt (ISO8601)": "",
-      "LastUpdated (ISO8601)": "2025-09-04T01:54:15.101Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:38.035Z"
     },
     {
       "Ticker": "SHOP",
@@ -313,12 +313,12 @@
     {
       "Ticker": "CMG",
       "AddedAt (ISO)": "",
-      "Reason": "HighConviction",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "2025-08-18 22:53:35 CT",
       "Notes": "Ready for full ER drift test",
       "AddedAt (ISO8601)": "",
-      "LastUpdated (ISO8601)": "2025-09-18T16:31:56.224Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:38.479Z"
     },
     {
       "Ticker": "RUN",
@@ -353,12 +353,12 @@
     {
       "Ticker": "PAY",
       "AddedAt (ISO)": "",
-      "Reason": "Validation",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "2025-08-18 22:53:38 CT",
       "Notes": "Need full ER history check before eligible",
       "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
-      "LastUpdated (ISO8601)": "2025-09-18T16:31:57.859Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:38.759Z"
     },
     {
       "Ticker": "FLNG",
@@ -483,12 +483,12 @@
     {
       "Ticker": "V",
       "AddedAt (ISO)": "",
-      "Reason": "ValidatePromotion",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "2025-08-18 22:53:49 CT",
       "Notes": "",
       "AddedAt (ISO8601)": "",
-      "LastUpdated (ISO8601)": "2025-09-04T01:54:12.291Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:39.033Z"
     },
     {
       "Ticker": "MRK",
@@ -583,12 +583,12 @@
     {
       "Ticker": "RBRK",
       "AddedAt (ISO)": "",
-      "Reason": "InsufficientHistory",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "2025-08-18 22:53:58 CT",
       "Notes": "Skip: limited price/ER data",
       "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
-      "LastUpdated (ISO8601)": "2025-09-18T16:31:58.296Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:40.198Z"
     },
     {
       "Ticker": "GME",
@@ -643,12 +643,12 @@
     {
       "Ticker": "NVTS",
       "AddedAt (ISO)": "",
-      "Reason": "Borderline coverage — 15 quarters",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "2025-08-18 22:54:04 CT",
       "Notes": "",
       "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
-      "LastUpdated (ISO8601)": "2025-09-15T15:46:01.635Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:40.478Z"
     },
     {
       "Ticker": "MCHP",
@@ -663,142 +663,142 @@
     {
       "Ticker": "PLTR",
       "AddedAt (ISO)": "",
-      "Reason": "NewHolding",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "Add 10 shares live; validate entry vs. ER drift",
       "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
-      "LastUpdated (ISO8601)": "2025-09-18T16:31:56.670Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:39.307Z"
     },
     {
       "Ticker": "COIN",
       "AddedAt (ISO)": "",
-      "Reason": "Oversold_Bounce",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "Volatility normalized; test drift windows",
       "AddedAt (ISO8601)": "2025-08-24T12:18:35-05:00",
-      "LastUpdated (ISO8601)": "2025-09-18T16:31:56.915Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:39.594Z"
     },
     {
       "Ticker": "CPRT",
       "AddedAt (ISO)": "",
-      "Reason": "Validation",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "Liquidity OK, confirm drift stability",
       "AddedAt (ISO8601)": "2025-09-15T10:00:00-05:00",
-      "LastUpdated (ISO8601)": "2025-09-18T16:31:58.101Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:39.915Z"
     },
     {
       "Ticker": "JNJ",
       "AddedAt (ISO)": "",
-      "Reason": "ValidatePromotion",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "",
       "AddedAt (ISO8601)": "2025-08-31T21:36:29.585Z",
-      "LastUpdated (ISO8601)": "2025-09-04T01:54:12.840Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:40.746Z"
     },
     {
       "Ticker": "LLY",
       "AddedAt (ISO)": "",
-      "Reason": "ValidatePromotion",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "",
       "AddedAt (ISO8601)": "2025-08-31T21:36:29.765Z",
-      "LastUpdated (ISO8601)": "2025-09-04T01:54:13.353Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:41.019Z"
     },
     {
       "Ticker": "HD",
       "AddedAt (ISO)": "",
-      "Reason": "ValidatePromotion",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "",
       "AddedAt (ISO8601)": "2025-08-31T21:36:29.956Z",
-      "LastUpdated (ISO8601)": "2025-09-04T01:54:13.897Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:41.321Z"
     },
     {
       "Ticker": "PG",
       "AddedAt (ISO)": "",
-      "Reason": "ValidatePromotion",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "",
       "AddedAt (ISO8601)": "2025-08-31T21:36:30.332Z",
-      "LastUpdated (ISO8601)": "2025-09-04T01:54:14.674Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:41.627Z"
     },
     {
       "Ticker": "ORCL",
       "AddedAt (ISO)": "",
-      "Reason": "ValidatePromotion",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "",
       "AddedAt (ISO8601)": "2025-08-31T21:36:30.674Z",
-      "LastUpdated (ISO8601)": "2025-09-04T01:54:15.505Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:41.898Z"
     },
     {
       "Ticker": "AMZN",
       "AddedAt (ISO)": "",
-      "Reason": "ValidatePromotion",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "",
       "AddedAt (ISO8601)": "2025-09-01T16:04:01.886Z",
-      "LastUpdated (ISO8601)": "2025-09-04T01:54:15.929Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:42.196Z"
     },
     {
       "Ticker": "IREN",
       "AddedAt (ISO)": "",
-      "Reason": "Pilot run",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "",
       "AddedAt (ISO8601)": "2025-09-01T16:57:10.522Z",
-      "LastUpdated (ISO8601)": "2025-09-01T16:57:10.522Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:42.476Z"
     },
     {
       "Ticker": "NBIS",
       "AddedAt (ISO)": "",
-      "Reason": "Pilot run",
-      "Status (Queued|Running|Done|Failed)": "Queued",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "",
       "AddedAt (ISO8601)": "2025-09-01T16:57:11.025Z",
-      "LastUpdated (ISO8601)": "2025-09-01T16:57:11.025Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:42.767Z"
     },
     {
       "Ticker": "SAP",
       "AddedAt (ISO)": "",
-      "Reason": "ValidatePromotion",
-      "Status (Queued|Running|Done|Failed)": "",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "",
       "AddedAt (ISO8601)": "2025-09-04T01:54:16.226Z",
-      "LastUpdated (ISO8601)": "2025-09-04T01:54:16.226Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:43.121Z"
     },
     {
       "Ticker": "SBUX",
       "AddedAt (ISO)": "",
-      "Reason": "ValidatePromotion",
-      "Status (Queued|Running|Done|Failed)": "",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "",
       "AddedAt (ISO8601)": "2025-09-04T01:54:16.537Z",
-      "LastUpdated (ISO8601)": "2025-09-04T01:54:16.537Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:43.814Z"
     },
     {
       "Ticker": "NVO",
       "AddedAt (ISO)": "",
-      "Reason": "ValidatePromotion",
-      "Status (Queued|Running|Done|Failed)": "",
+      "Reason": "Strategy_4.1_10d",
+      "Status (Queued|Running|Done|Failed)": "Running",
       "LastUpdated (ISO)": "",
       "Notes": "",
       "AddedAt (ISO8601)": "2025-09-04T01:54:16.852Z",
-      "LastUpdated (ISO8601)": "2025-09-04T01:54:16.852Z"
+      "LastUpdated (ISO8601)": "2025-09-26T14:45:44.173Z"
     },
     {
       "Ticker": "MEDP",
