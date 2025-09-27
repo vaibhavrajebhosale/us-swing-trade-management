@@ -1042,7 +1042,7 @@
     },
     {
       "Ticker": "COIN",
-      "Ticker UUID": "",
+      "Ticker UUID": "d3dda1b3-0965-4869-b212-00bb521e5daf",
       "Period Tested (quarters)": 8,
       "Avg Return %": "",
       "Hit Rate %": "",
@@ -1170,7 +1170,7 @@
     },
     {
       "Ticker": "IREN",
-      "Ticker UUID": "",
+      "Ticker UUID": "9fd18640-4a6c-4422-be6a-a094f11b7658",
       "Period Tested (quarters)": 8,
       "Avg Return %": "",
       "Hit Rate %": "",
@@ -1186,7 +1186,7 @@
     },
     {
       "Ticker": "NBIS",
-      "Ticker UUID": "",
+      "Ticker UUID": "49a1e919-bb6d-4319-ae27-4b72abe9a5de",
       "Period Tested (quarters)": 8,
       "Avg Return %": "",
       "Hit Rate %": "",
@@ -1202,7 +1202,7 @@
     },
     {
       "Ticker": "MRO",
-      "Ticker UUID": "",
+      "Ticker UUID": "b5320452-08de-4013-8f88-d33667f48601",
       "Period Tested (quarters)": 12,
       "Avg Return %": 6.5,
       "Hit Rate %": 62,
@@ -1218,7 +1218,7 @@
     },
     {
       "Ticker": "SAP",
-      "Ticker UUID": "",
+      "Ticker UUID": "ef2faab9-aa41-43c9-8eae-204e43c8b66d",
       "Period Tested (quarters)": 12,
       "Avg Return %": "",
       "Hit Rate %": "",
@@ -1234,7 +1234,7 @@
     },
     {
       "Ticker": "SBUX",
-      "Ticker UUID": "",
+      "Ticker UUID": "d92941bd-2f9d-4bdc-b9c1-72a1915e2131",
       "Period Tested (quarters)": 12,
       "Avg Return %": "",
       "Hit Rate %": "",
@@ -1250,7 +1250,7 @@
     },
     {
       "Ticker": "NVO",
-      "Ticker UUID": "",
+      "Ticker UUID": "f0592e7b-effd-4d8e-bff0-92936225d6e8",
       "Period Tested (quarters)": 12,
       "Avg Return %": "",
       "Hit Rate %": "",

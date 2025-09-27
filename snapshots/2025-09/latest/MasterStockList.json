@@ -1273,7 +1273,7 @@
       "LastScanAt (ISO8601)": "2025-08-21 20:59:54 CT",
       "SectorSlotOK (Y/N)": "Y",
       "KillSwitchOK (Y/N)": "Y",
-      "WashSaleCooldownUntil": "Wed Oct 08 2025 00:00:00 GMT-0500 (Central Daylight Time)",
+      "WashSaleCooldownUntil": "2025-09-27T00:00:00.000Z",
       "DoNotTradeUntil": "",
       "Avg Return % (Backtest)": "",
       "Hit Rate % (Backtest)": "",
@@ -2021,7 +2021,7 @@
       "LastScanAt (ISO8601)": "2025-08-21 21:00:22 CT",
       "SectorSlotOK (Y/N)": "Y",
       "KillSwitchOK (Y/N)": "Y",
-      "WashSaleCooldownUntil": "Thu Oct 09 2025 00:00:00 GMT-0500 (Central Daylight Time)",
+      "WashSaleCooldownUntil": "2025-10-04T00:00:00.000Z",
       "DoNotTradeUntil": "",
       "Avg Return % (Backtest)": "",
       "Hit Rate % (Backtest)": "",
@@ -3075,7 +3075,7 @@
       "LastScanAt (ISO8601)": "",
       "SectorSlotOK (Y/N)": "",
       "KillSwitchOK (Y/N)": "",
-      "WashSaleCooldownUntil": "Wed Oct 08 2025 00:00:00 GMT-0500 (Central Daylight Time)",
+      "WashSaleCooldownUntil": "2025-08-28T00:00:00.000Z",
       "DoNotTradeUntil": "",
       "Avg Return % (Backtest)": "",
       "Hit Rate % (Backtest)": "",
@@ -3300,7 +3300,7 @@
     },
     {
       "Ticker": "NVMI",
-      "Ticker UUID": "",
+      "Ticker UUID": "e3fea476-31d5-4118-ad1c-b568727b05d5",
       "Status (Active|NextCycle|Excluded|Archived)": "Active",
       "WatchlistPriority (1-5)": 2,
       "StrongEarningsHistory (Y/N)": "Y",
@@ -3334,7 +3334,7 @@
     },
     {
       "Ticker": "COIN",
-      "Ticker UUID": "",
+      "Ticker UUID": "d3dda1b3-0965-4869-b212-00bb521e5daf",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3368,7 +3368,7 @@
     },
     {
       "Ticker": "IREN",
-      "Ticker UUID": "",
+      "Ticker UUID": "9fd18640-4a6c-4422-be6a-a094f11b7658",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3402,7 +3402,7 @@
     },
     {
       "Ticker": "NBIS",
-      "Ticker UUID": "",
+      "Ticker UUID": "49a1e919-bb6d-4319-ae27-4b72abe9a5de",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3436,7 +3436,7 @@
     },
     {
       "Ticker": "GOOG",
-      "Ticker UUID": "",
+      "Ticker UUID": "447fe94e-6685-4cdc-869d-a3615284e468",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3470,7 +3470,7 @@
     },
     {
       "Ticker": "NVDA",
-      "Ticker UUID": "",
+      "Ticker UUID": "d9e74a04-ead9-435f-9cbd-ee0fdd5042a0",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3504,7 +3504,7 @@
     },
     {
       "Ticker": "META",
-      "Ticker UUID": "",
+      "Ticker UUID": "976af9b7-0a58-4340-a37d-739a09600afc",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3538,7 +3538,7 @@
     },
     {
       "Ticker": "FDS",
-      "Ticker UUID": "",
+      "Ticker UUID": "7cfbf081-b97d-48ec-b0dd-dfb7f3ea647a",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3572,7 +3572,7 @@
     },
     {
       "Ticker": "NOW",
-      "Ticker UUID": "",
+      "Ticker UUID": "b9aac558-7205-4eb6-b408-13909611b45c",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3606,7 +3606,7 @@
     },
     {
       "Ticker": "MSFT",
-      "Ticker UUID": "",
+      "Ticker UUID": "51a7e554-3771-4127-86ad-e8659f8add8b",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3640,7 +3640,7 @@
     },
     {
       "Ticker": "UNH",
-      "Ticker UUID": "",
+      "Ticker UUID": "c60100e9-c98a-48d9-8072-8ec697120388",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3674,7 +3674,7 @@
     },
     {
       "Ticker": "UPS",
-      "Ticker UUID": "",
+      "Ticker UUID": "902d0a40-f5c2-4287-8963-8a2febf0fc55",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3708,7 +3708,7 @@
     },
     {
       "Ticker": "SNAP",
-      "Ticker UUID": "",
+      "Ticker UUID": "2f880452-3745-4c98-9832-88b4d6177702",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3742,7 +3742,7 @@
     },
     {
       "Ticker": "SOUN",
-      "Ticker UUID": "",
+      "Ticker UUID": "a4b53ea3-ee7a-41f8-a0ec-0f65db1c12b2",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3776,7 +3776,7 @@
     },
     {
       "Ticker": "RIVN",
-      "Ticker UUID": "",
+      "Ticker UUID": "eb568694-3f21-4779-bd4c-c9e66e822891",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3810,7 +3810,7 @@
     },
     {
       "Ticker": "HIMS",
-      "Ticker UUID": "",
+      "Ticker UUID": "ab888e64-ea6e-44ed-bcd6-06d65dd5b0e7",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3844,7 +3844,7 @@
     },
     {
       "Ticker": "BROS",
-      "Ticker UUID": "",
+      "Ticker UUID": "ff0c2293-ffe9-4942-a8e2-9269bde9e733",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3878,7 +3878,7 @@
     },
     {
       "Ticker": "RBLX",
-      "Ticker UUID": "",
+      "Ticker UUID": "6e3d0571-ff6d-4752-85c4-c5735b25e659",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3912,7 +3912,7 @@
     },
     {
       "Ticker": "CDNS",
-      "Ticker UUID": "",
+      "Ticker UUID": "095f8f5b-3ad8-4653-b2c2-5b82a5633810",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3946,7 +3946,7 @@
     },
     {
       "Ticker": "GOOGL",
-      "Ticker UUID": "",
+      "Ticker UUID": "a2fb6282-4459-4279-93cb-f9b43d5d128e",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -3980,7 +3980,7 @@
     },
     {
       "Ticker": "ESLT",
-      "Ticker UUID": "",
+      "Ticker UUID": "f8e56ab4-5612-470f-9f5c-1ee4da56f6eb",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -4014,7 +4014,7 @@
     },
     {
       "Ticker": "BUD",
-      "Ticker UUID": "",
+      "Ticker UUID": "69c2c955-1ece-4935-bb1a-985cb439b94a",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -4048,7 +4048,7 @@
     },
     {
       "Ticker": "AI",
-      "Ticker UUID": "",
+      "Ticker UUID": "30f7f27a-a70e-4db8-bb2e-7760fc94fe8e",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
@@ -4082,7 +4082,7 @@
     },
     {
       "Ticker": "XTIA",
-      "Ticker UUID": "",
+      "Ticker UUID": "8b170824-fe60-4c4f-bec7-6c8dec68cd74",
       "Status (Active|NextCycle|Excluded|Archived)": "",
       "WatchlistPriority (1-5)": "",
       "StrongEarningsHistory (Y/N)": "",
