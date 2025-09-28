@@ -400,7 +400,7 @@
       "ExitTriggers (DayWindow,RSI>65,MACD_Roll,StopHit,Earnings≤7d)": "",
       "StopRule (-10%|2.5×ATR20)": "",
       "TargetRule (+5–10%)": "",
-      "LTH_Eligible (Y/N)": "",
+      "LTH_Eligible (Y/N)": "Y",
       "LTH_CarveQty": "",
       "Entry Tag": "",
       "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Hold",
