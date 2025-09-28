@@ -1,0 +1,52 @@
+[
+  {
+    "Key": "RSI_Entry",
+    "Value": "45",
+    "Notes": "Standard entry cutoff (RSI < 45)"
+  },
+  {
+    "Key": "RSI_Entry_StrongEarnings",
+    "Value": "48",
+    "Notes": "Relaxed RSI cutoff for strong ER history"
+  },
+  {
+    "Key": "%B_Base",
+    "Value": "0.05",
+    "Notes": "Bollinger Band %B cutoff (≤0.05)"
+  },
+  {
+    "Key": "ATR_Stop",
+    "Value": "2.5",
+    "Notes": "Dynamic stop-loss: 2.5 × ATR(20)"
+  },
+  {
+    "Key": "TP_Target",
+    "Value": "7.5",
+    "Notes": "Take-profit midpoint (+5–10%)"
+  },
+  {
+    "Key": "KillSwitchDD",
+    "Value": "8",
+    "Notes": "Kill switch: pause entries if 10-day DD ≥ -8%"
+  },
+  {
+    "Key": "SectorCap",
+    "Value": "3",
+    "Notes": "Max holdings per GICS sector"
+  },
+  {
+    "Key": "PreOctExitWindow",
+    "Value": "33-40",
+    "Notes": "Legacy 35-day exit window (pre-2025-10-01)"
+  },
+  {
+    "Key": "Oct1Rule",
+    "Value": "Y",
+    "Notes": "Enable post-Oct 10-day hold + dynamic exit rules"
+  },
+  {
+    "Key": "ProviderOrder",
+    "Value": "Polygon>Yahoo>Stooq",
+    "Notes": "Primary and fallback market data providers"
+  }
+]
