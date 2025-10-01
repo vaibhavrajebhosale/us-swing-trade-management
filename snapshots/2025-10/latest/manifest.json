@@ -1,0 +1,34 @@
+{
+  "asOf": "2025-10-01T02:02:13Z",
+  "branch": "Strategy_4_1",
+  "tabs": [
+    "CurrentHoldings",
+    "ExitMonitor",
+    "RiskMonitor",
+    "SectorExposure",
+    "EarningsMonitor",
+    "EntryWatchlist",
+    "OversoldTracker",
+    "MasterStockList",
+    "BacktestQueue",
+    "BacktestResults",
+    "PortfolioEquity",
+    "ClosedTrades",
+    "TickerMetadata"
+  ],
+  "files": [
+    "snapshots/2025-10/latest/BacktestQueue.json",
+    "snapshots/2025-10/latest/BacktestResults.json",
+    "snapshots/2025-10/latest/ClosedTrades.json",
+    "snapshots/2025-10/latest/CurrentHoldings.json",
+    "snapshots/2025-10/latest/EarningsMonitor.json",
+    "snapshots/2025-10/latest/EntryWatchlist.json",
+    "snapshots/2025-10/latest/ExitMonitor.json",
+    "snapshots/2025-10/latest/MasterStockList.json",
+    "snapshots/2025-10/latest/OversoldTracker.json",
+    "snapshots/2025-10/latest/PortfolioEquity.json",
+    "snapshots/2025-10/latest/RiskMonitor.json",
+    "snapshots/2025-10/latest/SectorExposure.json",
+    "snapshots/2025-10/latest/TickerMetadata.json"
+  ]
+}
