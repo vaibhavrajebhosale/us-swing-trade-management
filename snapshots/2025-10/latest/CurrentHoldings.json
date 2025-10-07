@@ -379,7 +379,7 @@
       "LTH_Eligible (Y/N)": "",
       "LTH_CarveQty": "",
       "Entry Tag": "",
-      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Hold",
+      "Exit Status (Ready|Hold|Sold|SnoozedTo)": "Sold",
       "Notes_Audit": "",
       "Ticker UUID": "01aaada4-8836-4cdf-972a-d580c11c519a",
       "LTH_CarveDate (ISO8601)": ""
