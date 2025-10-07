@@ -293,6 +293,27 @@
       "Linked Holding URL": "",
       "Re-entry Cooldown Until": "2025-10-09T05:00:00.000Z",
       "Notes": ""
+    },
+    {
+      "Trade ID": "CMG-20250917",
+      "Ticker": "CMG",
+      "Ticker UUID": "01aaada4-8836-4cdf-972a-d580c11c519a",
+      "Entry Date": "2025-09-17T05:00:00.000Z",
+      "Entry Price": 39.7,
+      "Exit Date": "2025-10-06T05:00:00.000Z",
+      "Exit Price": 41.63,
+      "Shares": 50,
+      "Gross Return %": 0.048615,
+      "Realized P&L $ (Gross)": 96.5,
+      "Fees/Slippage $": "",
+      "Realized P&L $ (Net)": "",
+      "Holding Days": 19,
+      "Entry Tag": "",
+      "Exit Tag": "",
+      "Exit Reason": "Sold",
+      "Linked Holding URL": "",
+      "Re-entry Cooldown Until": "2025-11-05T06:00:00.000Z",
+      "Notes": "Auto-moved from CurrentHoldings"
     }
   ]
 }
