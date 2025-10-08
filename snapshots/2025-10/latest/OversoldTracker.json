@@ -538,7 +538,7 @@
       "MissingSignals": "",
       "Notes": "❌ not aligned — neutral continuation.",
       "Ticker UUID": "",
-      "NextCheckAt (ISO8601)": ""
+      "NextCheckAt (ISO8601)": "2025-10-08T14:00:00.000Z"
     },
     {
       "Ticker": "NVMI",
@@ -555,8 +555,8 @@
       "PostEarningsRebound (Y/N)": "",
       "MissingSignals": "",
       "Notes": "❌ not aligned — momentum continuation.",
-      "Ticker UUID": "",
-      "NextCheckAt (ISO8601)": ""
+      "Ticker UUID": "e3fea476-31d5-4118-ad1c-b568727b05d5",
+      "NextCheckAt (ISO8601)": "2025-10-08T14:00:00.000Z"
     }
   ]
 }
