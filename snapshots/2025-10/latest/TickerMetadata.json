@@ -624,10 +624,10 @@
     {
       "Ticker": "FIVE",
       "Composite Key (Ticker|Exchange)": "FIVE|XNAS",
-      "Company Name": "Five Below Inc",
+      "Company Name": "",
       "Exchange": "XNAS",
       "Country": "US",
-      "Currency": "USD",
+      "Currency": "",
       "Primary Listing? (Y/N)": "",
       "GICS Sector": "Consumer Cyclical",
       "GICS Industry": "Specialty Retail",
