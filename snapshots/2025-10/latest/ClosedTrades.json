@@ -314,6 +314,27 @@
       "Linked Holding URL": "",
       "Re-entry Cooldown Until": "2025-11-05T06:00:00.000Z",
       "Notes": "Auto-moved from CurrentHoldings"
+    },
+    {
+      "Trade ID": "CRCL-20250815",
+      "Ticker": "CRCL",
+      "Ticker UUID": "2fe82569-68d4-4310-9a7d-b77e85cb0817",
+      "Entry Date": "2025-08-10T05:00:00.000Z",
+      "Entry Price": 149.9,
+      "Exit Date": "2025-10-08T05:00:00.000Z",
+      "Exit Price": 150.46,
+      "Shares": 15,
+      "Gross Return %": 0.003736,
+      "Realized P&L $ (Gross)": 8.4,
+      "Fees/Slippage $": "",
+      "Realized P&L $ (Net)": "",
+      "Holding Days": 59,
+      "Entry Tag": "",
+      "Exit Tag": "",
+      "Exit Reason": "Sold",
+      "Linked Holding URL": "",
+      "Re-entry Cooldown Until": "2025-11-07T06:00:00.000Z",
+      "Notes": "Auto-moved from CurrentHoldings"
     }
   ]
 }

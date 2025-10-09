@@ -1973,6 +1973,48 @@
       "Composite Key (Ticker|Exchange)": "AAPL|",
       "LastCheckedAt (ISO8601)": "",
       "__Prev_Next_Earnings_Date": ""
+    },
+    {
+      "Ticker": "DKNG",
+      "Exchange": "",
+      "Next Earnings Date": "",
+      "NextEarningsTime (BMO/AMC/TBD)": "TBD",
+      "Status (Confirmed|Estimated)": "Estimated",
+      "Source": "",
+      "SourceURL": "",
+      "Prior Known Date": "",
+      "Delta (Days)": "",
+      "Delta Flag": "",
+      "Days Until ER": "",
+      "≤ 7d Risk?": "",
+      "≥ 35d Entry Window?": "",
+      "RevisionCount": "",
+      "WeekendAdjust (Y/N)": "",
+      "Notes": "Auto-added from CurrentHoldings",
+      "Composite Key (Ticker|Exchange)": "DKNG|",
+      "LastCheckedAt (ISO8601)": "",
+      "__Prev_Next_Earnings_Date": ""
+    },
+    {
+      "Ticker": "CRWV",
+      "Exchange": "",
+      "Next Earnings Date": "",
+      "NextEarningsTime (BMO/AMC/TBD)": "TBD",
+      "Status (Confirmed|Estimated)": "Estimated",
+      "Source": "",
+      "SourceURL": "",
+      "Prior Known Date": "",
+      "Delta (Days)": "",
+      "Delta Flag": "",
+      "Days Until ER": "",
+      "≤ 7d Risk?": "",
+      "≥ 35d Entry Window?": "",
+      "RevisionCount": "",
+      "WeekendAdjust (Y/N)": "",
+      "Notes": "Auto-added from CurrentHoldings",
+      "Composite Key (Ticker|Exchange)": "CRWV|",
+      "LastCheckedAt (ISO8601)": "",
+      "__Prev_Next_Earnings_Date": ""
     }
   ]
 }

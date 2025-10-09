@@ -2157,7 +2157,7 @@
       "LastScanAt (ISO8601)": "2025-08-21 21:00:30 CT",
       "SectorSlotOK (Y/N)": "Y",
       "KillSwitchOK (Y/N)": "Y",
-      "WashSaleCooldownUntil": "",
+      "WashSaleCooldownUntil": "Fri Nov 07 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "DoNotTradeUntil": "",
       "Avg Return % (Backtest)": -0.8,
       "Hit Rate % (Backtest)": 41,
