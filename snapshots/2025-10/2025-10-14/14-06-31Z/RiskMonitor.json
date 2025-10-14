@@ -1,0 +1,18 @@
+{
+  "columns": [
+    "Date (ISO8601)",
+    "Equity_EOD",
+    "DD_10d_%",
+    "KillSwitchState (ON|OFF)",
+    "TriggeredAt (ISO8601)",
+    "ResetAt (ISO8601)",
+    "StopLossBreaches (#)",
+    "SectorBreach (Y/N)",
+    "KillSwitchState (ON/OFF)",
+    "GrossExposure",
+    "NetExposure",
+    "Beta_Estimate",
+    "Notes"
+  ],
+  "rows": []
+}
