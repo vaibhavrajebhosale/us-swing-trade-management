@@ -335,6 +335,27 @@
       "Linked Holding URL": "",
       "Re-entry Cooldown Until": "2025-11-07T06:00:00.000Z",
       "Notes": "Auto-moved from CurrentHoldings"
+    },
+    {
+      "Trade ID": "ERIC-20250612-20251006",
+      "Ticker": "ERIC",
+      "Ticker UUID": "8c66d8b0-32a7-44f8-8a28-d674094a0022",
+      "Entry Date": "2025-06-12T05:00:00.000Z",
+      "Entry Price": "",
+      "Exit Date": "2025-10-06T05:00:00.000Z",
+      "Exit Price": "N/A",
+      "Shares": "",
+      "Gross Return %": "",
+      "Realized P&L $ (Gross)": "",
+      "Fees/Slippage $": "",
+      "Realized P&L $ (Net)": "",
+      "Holding Days": 116,
+      "Entry Tag": "",
+      "Exit Tag": "",
+      "Exit Reason": "MACD_Roll + Breach 10d Rule",
+      "Linked Holding URL": "",
+      "Re-entry Cooldown Until": "2025-11-05T06:00:00.000Z",
+      "Notes": ""
     }
   ]
 }
