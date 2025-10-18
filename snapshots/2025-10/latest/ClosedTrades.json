@@ -440,6 +440,27 @@
       "Linked Holding URL": "",
       "Re-entry Cooldown Until": "2025-11-15T06:00:00.000Z",
       "Notes": "Auto-moved from CurrentHoldings"
+    },
+    {
+      "Trade ID": "KDP-20251001",
+      "Ticker": "KDP",
+      "Ticker UUID": "de33ac14-1e81-4b96-88f9-a95aede07277",
+      "Entry Date": "2025-10-01T05:00:00.000Z",
+      "Entry Price": 25.64,
+      "Exit Date": "2025-10-17T05:00:00.000Z",
+      "Exit Price": 28.03,
+      "Shares": 50,
+      "Gross Return %": 0.093214,
+      "Realized P&L $ (Gross)": 119.5,
+      "Fees/Slippage $": "",
+      "Realized P&L $ (Net)": "",
+      "Holding Days": 16,
+      "Entry Tag": "",
+      "Exit Tag": "",
+      "Exit Reason": "Sold",
+      "Linked Holding URL": "",
+      "Re-entry Cooldown Until": "2025-11-16T06:00:00.000Z",
+      "Notes": "Auto-moved from CurrentHoldings"
     }
   ]
 }
