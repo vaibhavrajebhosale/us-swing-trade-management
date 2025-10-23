@@ -2227,6 +2227,27 @@
       "__Prev_Next_Earnings_Date": "Wed Oct 29 2025 00:00:00 GMT-0500 (Central Daylight Time)"
     },
     {
+      "Ticker": "ASML",
+      "Exchange": "NASDAQ",
+      "Next Earnings Date": "Wed Jan 28 2026 00:00:00 GMT-0600 (Central Standard Time)",
+      "NextEarningsTime (BMO/AMC/TBD)": "TBD",
+      "Status (Confirmed|Estimated)": "Estimated",
+      "Source": "Finnhub",
+      "SourceURL": "https://finnhub.io/",
+      "Prior Known Date": "",
+      "Delta (Days)": "",
+      "Delta Flag": "",
+      "Days Until ER": 97,
+      "≤ 7d Risk?": "N",
+      "≥ 35d Entry Window?": "Y",
+      "RevisionCount": "",
+      "WeekendAdjust (Y/N)": "N",
+      "Notes": "",
+      "Composite Key (Ticker|Exchange)": "ASML|NASDAQ",
+      "LastCheckedAt (ISO8601)": "2025-10-23T09:03:31-05:00",
+      "__Prev_Next_Earnings_Date": "Wed Jan 28 2026 00:00:00 GMT-0600 (Central Standard Time)"
+    },
+    {
       "Ticker": "AAPL",
       "Exchange": "",
       "Next Earnings Date": "",
@@ -2266,27 +2287,6 @@
       "Notes": "Auto-added from CurrentHoldings",
       "Composite Key (Ticker|Exchange)": "CRWV|",
       "LastCheckedAt (ISO8601)": "",
-      "__Prev_Next_Earnings_Date": ""
-    },
-    {
-      "Ticker": "ASML",
-      "Exchange": "NASDAQ",
-      "Next Earnings Date": "2026-01-28T06:00:00.000Z",
-      "NextEarningsTime (BMO/AMC/TBD)": "TBD",
-      "Status (Confirmed|Estimated)": "Estimated",
-      "Source": "Finnhub",
-      "SourceURL": "https://finnhub.io/",
-      "Prior Known Date": "",
-      "Delta (Days)": "",
-      "Delta Flag": "",
-      "Days Until ER": "",
-      "≤ 7d Risk?": "",
-      "≥ 35d Entry Window?": "",
-      "RevisionCount": "",
-      "WeekendAdjust (Y/N)": "",
-      "Notes": "",
-      "Composite Key (Ticker|Exchange)": "ASML|NASDAQ",
-      "LastCheckedAt (ISO8601)": "2025-10-23T09:03:31-05:00",
       "__Prev_Next_Earnings_Date": ""
     }
   ]
