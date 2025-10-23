@@ -436,7 +436,7 @@
       "Ticker": "BX",
       "Current Price": "",
       "RSI": "",
-      "MACD Status": "",
+      "MACD Status": "hook_up",
       "%B": "",
       "ATR20": "",
       "VolZ": "",
@@ -454,7 +454,7 @@
       "BlockedReason (Earnings<35d|SectorCap|KillSwitch|WashSale|Other)": "",
       "Bracket (TP% / SL rule)": "",
       "Bracket (TP%, SL rule)": "",
-      "ProposedSize (Full|1/2|1/3)": "2025-01-02T06:00:00.000Z",
+      "ProposedSize (Full|1/2|1/3)": "Full",
       "Confidence (A/B/C)": "C",
       "Notes": "Oversold candidate, MACD not fully turned",
       "Ticker UUID": "c26efc67-923a-408b-a63e-9e881620ebf6"
