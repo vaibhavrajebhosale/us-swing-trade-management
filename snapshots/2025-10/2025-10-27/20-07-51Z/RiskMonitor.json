@@ -1,0 +1,34 @@
+{
+  "columns": [
+    "Date (ISO8601)",
+    "Equity_EOD",
+    "DD_10d_%",
+    "KillSwitchState (ON|OFF)",
+    "TriggeredAt (ISO8601)",
+    "ResetAt (ISO8601)",
+    "StopLossBreaches (#)",
+    "SectorBreach (Y/N)",
+    "KillSwitchState (ON/OFF)",
+    "GrossExposure",
+    "NetExposure",
+    "Beta_Estimate",
+    "Notes"
+  ],
+  "rows": [
+    {
+      "Date (ISO8601)": "2025-10-16T05:00:00.000Z",
+      "Equity_EOD": "",
+      "DD_10d_%": "",
+      "KillSwitchState (ON|OFF)": "OFF",
+      "TriggeredAt (ISO8601)": "",
+      "ResetAt (ISO8601)": "",
+      "StopLossBreaches (#)": "",
+      "SectorBreach (Y/N)": "N",
+      "KillSwitchState (ON/OFF)": "",
+      "GrossExposure": "",
+      "NetExposure": "",
+      "Beta_Estimate": "",
+      "Notes": "Cycle S4.1-2025-10-27-A prepared; system state → ROLL_PREP"
+    }
+  ]
+}
