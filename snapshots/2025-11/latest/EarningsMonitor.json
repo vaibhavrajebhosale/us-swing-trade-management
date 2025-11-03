@@ -23,7 +23,7 @@
   "rows": [
     {
       "Ticker": "SHOP",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Mon Nov 03 2025 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -44,7 +44,7 @@
     },
     {
       "Ticker": "TAL",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Tue Jan 20 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -80,13 +80,13 @@
       "RevisionCount": 2,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "Confirmed from TipRanks",
-      "Composite Key (Ticker|Exchange)": "CMG|XNYS",
+      "Composite Key (Ticker|Exchange)": "CMG|NYSE",
       "LastCheckedAt (ISO8601)": "2025-11-02 14:30:03 CT",
       "__Prev_Next_Earnings_Date": "Mon Jan 26 2026 18:00:00 GMT-0600 (Central Standard Time)"
     },
     {
       "Ticker": "RUN",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Mon Jan 26 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -107,7 +107,7 @@
     },
     {
       "Ticker": "CSX",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Tue Jan 13 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -128,7 +128,7 @@
     },
     {
       "Ticker": "TXRH",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Tue Jan 27 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -149,7 +149,7 @@
     },
     {
       "Ticker": "PAY",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Sat Nov 01 2025 19:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -170,7 +170,7 @@
     },
     {
       "Ticker": "FLNG",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Mon Nov 17 2025 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -191,7 +191,7 @@
     },
     {
       "Ticker": "KMB",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Tue Jan 27 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -212,7 +212,7 @@
     },
     {
       "Ticker": "ADM",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Mon Jan 26 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -233,7 +233,7 @@
     },
     {
       "Ticker": "KEYS",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Sun Nov 16 2025 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -254,7 +254,7 @@
     },
     {
       "Ticker": "MKC",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Sun Jan 04 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -290,13 +290,13 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "Estimated from MarketBeat",
-      "Composite Key (Ticker|Exchange)": "CLX|XNYS",
+      "Composite Key (Ticker|Exchange)": "CLX|NYSE",
       "LastCheckedAt (ISO8601)": "2025-11-02 14:30:46 CT",
       "__Prev_Next_Earnings_Date": "Tue Oct 28 2025 19:00:00 GMT-0500 (Central Daylight Time)"
     },
     {
       "Ticker": "PEP",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Tue Jan 06 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -317,7 +317,7 @@
     },
     {
       "Ticker": "HSY",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Tue Jan 27 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -338,7 +338,7 @@
     },
     {
       "Ticker": "QCOM",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Mon Oct 27 2025 19:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -359,7 +359,7 @@
     },
     {
       "Ticker": "CVS",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Mon Jan 26 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -380,7 +380,7 @@
     },
     {
       "Ticker": "V",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Sun Jan 25 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -401,7 +401,7 @@
     },
     {
       "Ticker": "MRK",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Tue Jan 27 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -422,7 +422,7 @@
     },
     {
       "Ticker": "MDLZ",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Sun Oct 26 2025 19:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -443,7 +443,7 @@
     },
     {
       "Ticker": "SWK",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Sun Oct 26 2025 19:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -464,7 +464,7 @@
     },
     {
       "Ticker": "SJM",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Mon Nov 24 2025 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -485,7 +485,7 @@
     },
     {
       "Ticker": "ERIC",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Sun Jan 11 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -506,7 +506,7 @@
     },
     {
       "Ticker": "PFS",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Mon Jan 26 2026 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -542,13 +542,13 @@
       "RevisionCount": 2,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "LYFT|XNAS",
+      "Composite Key (Ticker|Exchange)": "LYFT|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-11-02 14:31:37 CT",
       "__Prev_Next_Earnings_Date": "Mon Nov 03 2025 18:00:00 GMT-0600 (Central Standard Time)"
     },
     {
       "Ticker": "DOCU",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Tue Dec 02 2025 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -569,7 +569,7 @@
     },
     {
       "Ticker": "ROKU",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -590,7 +590,7 @@
     },
     {
       "Ticker": "RBRK",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Fri Dec 05 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -626,7 +626,7 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "KR|XNYS",
+      "Composite Key (Ticker|Exchange)": "KR|NYSE",
       "LastCheckedAt (ISO8601)": "2025-08-28 19:26:04 CT",
       "__Prev_Next_Earnings_Date": ""
     },
@@ -647,7 +647,7 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "RH|XNYS",
+      "Composite Key (Ticker|Exchange)": "RH|NYSE",
       "LastCheckedAt (ISO8601)": "2025-08-28 19:26:04 CT",
       "__Prev_Next_Earnings_Date": ""
     },
@@ -668,7 +668,7 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "ADBE|XNAS",
+      "Composite Key (Ticker|Exchange)": "ADBE|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-08-31T20:49:03.579Z",
       "__Prev_Next_Earnings_Date": "Thu Sep 11 2025 00:00:00 GMT-0500 (Central Daylight Time)"
     },
@@ -689,13 +689,13 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "CRCL|XNYS",
+      "Composite Key (Ticker|Exchange)": "CRCL|NYSE",
       "LastCheckedAt (ISO8601)": "2025-08-28 19:26:04 CT",
       "__Prev_Next_Earnings_Date": ""
     },
     {
       "Ticker": "NVTS",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Tue Nov 04 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -716,7 +716,7 @@
     },
     {
       "Ticker": "MCHP",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Tue Nov 04 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -752,13 +752,13 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "JNJ|XNYS",
+      "Composite Key (Ticker|Exchange)": "JNJ|NYSE",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:08.706Z",
       "__Prev_Next_Earnings_Date": "Tue Oct 14 2025 00:00:00 GMT-0500 (Central Daylight Time)"
     },
     {
       "Ticker": "LLY",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Oct 29 2025 00:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "Confirmed",
@@ -779,7 +779,7 @@
     },
     {
       "Ticker": "HD",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Tue Nov 18 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "Confirmed",
@@ -800,7 +800,7 @@
     },
     {
       "Ticker": "PG",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Oct 15 2025 00:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "Confirmed",
@@ -821,7 +821,7 @@
     },
     {
       "Ticker": "PFE",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Tue Nov 04 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -842,7 +842,7 @@
     },
     {
       "Ticker": "ORCL",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Mon Sep 08 2025 00:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -863,7 +863,7 @@
     },
     {
       "Ticker": "CPRT",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -884,7 +884,7 @@
     },
     {
       "Ticker": "BBWI",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -905,7 +905,7 @@
     },
     {
       "Ticker": "SMCI",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -941,7 +941,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "Auto-added from CurrentHoldings",
-      "Composite Key (Ticker|Exchange)": "PLTR|XNAS",
+      "Composite Key (Ticker|Exchange)": "PLTR|NASDAQ",
       "LastCheckedAt (ISO8601)": "",
       "__Prev_Next_Earnings_Date": ""
     },
@@ -962,7 +962,7 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "WBA|XNAS",
+      "Composite Key (Ticker|Exchange)": "WBA|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-09-20 16:26:55 CT",
       "__Prev_Next_Earnings_Date": "Tue Sep 23 2025 19:00:00 GMT-0500 (Central Daylight Time)"
     },
@@ -983,7 +983,7 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "Y",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "PYPL|XNAS",
+      "Composite Key (Ticker|Exchange)": "PYPL|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-09-20 16:26:58 CT",
       "__Prev_Next_Earnings_Date": "Sun Oct 26 2025 19:00:00 GMT-0500 (Central Daylight Time)"
     },
@@ -1004,13 +1004,13 @@
       "RevisionCount": 1,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "TGT|XNYS",
+      "Composite Key (Ticker|Exchange)": "TGT|NYSE",
       "LastCheckedAt (ISO8601)": "2025-09-20 16:27:01 CT",
       "__Prev_Next_Earnings_Date": "Mon Nov 17 2025 18:00:00 GMT-0600 (Central Standard Time)"
     },
     {
       "Ticker": "MRO",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "",
@@ -1046,13 +1046,13 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "INTC|XNAS",
+      "Composite Key (Ticker|Exchange)": "INTC|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-09-20 16:27:07 CT",
       "__Prev_Next_Earnings_Date": "Tue Oct 21 2025 19:00:00 GMT-0500 (Central Daylight Time)"
     },
     {
       "Ticker": "KO",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Mon Feb 09 2026 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1073,7 +1073,7 @@
     },
     {
       "Ticker": "CL",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Oct 29 2025 19:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -1094,7 +1094,7 @@
     },
     {
       "Ticker": "VZ",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Oct 29 2025 00:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1115,7 +1115,7 @@
     },
     {
       "Ticker": "DNUT",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Tue Nov 04 2025 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -1136,7 +1136,7 @@
     },
     {
       "Ticker": "CAG",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Apr 01 2026 00:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1157,7 +1157,7 @@
     },
     {
       "Ticker": "KHC",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Mon Oct 27 2025 19:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -1178,7 +1178,7 @@
     },
     {
       "Ticker": "FXNC",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Wed Feb 04 2026 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1199,7 +1199,7 @@
     },
     {
       "Ticker": "PCG",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Tue Oct 28 2025 19:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -1220,7 +1220,7 @@
     },
     {
       "Ticker": "GE",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Jan 21 2026 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1241,7 +1241,7 @@
     },
     {
       "Ticker": "ETSY",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Mon Oct 27 2025 19:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -1262,7 +1262,7 @@
     },
     {
       "Ticker": "CNC",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Oct 22 2025 19:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -1283,7 +1283,7 @@
     },
     {
       "Ticker": "NOK",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Jan 28 2026 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1319,13 +1319,13 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "ASML|XNAS",
+      "Composite Key (Ticker|Exchange)": "ASML|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:07.382Z",
       "__Prev_Next_Earnings_Date": "Thu Oct 16 2025 00:00:00 GMT-0500 (Central Daylight Time)"
     },
     {
       "Ticker": "FSLR",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Thu Oct 30 2025 00:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1346,7 +1346,7 @@
     },
     {
       "Ticker": "MCD",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Mon Nov 03 2025 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -1367,7 +1367,7 @@
     },
     {
       "Ticker": "BX",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Jan 28 2026 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1388,7 +1388,7 @@
     },
     {
       "Ticker": "EOG",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Tue Nov 04 2025 18:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Derived",
@@ -1424,7 +1424,7 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "APA|XNAS",
+      "Composite Key (Ticker|Exchange)": "APA|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-09-20 16:28:07 CT",
       "__Prev_Next_Earnings_Date": "Mon Nov 03 2025 18:00:00 GMT-0600 (Central Standard Time)"
     },
@@ -1445,7 +1445,7 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "OXY|XNYS",
+      "Composite Key (Ticker|Exchange)": "OXY|NYSE",
       "LastCheckedAt (ISO8601)": "2025-09-20 16:28:11 CT",
       "__Prev_Next_Earnings_Date": "Mon Nov 03 2025 18:00:00 GMT-0600 (Central Standard Time)"
     },
@@ -1466,7 +1466,7 @@
       "RevisionCount": 2,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "CRWD|XNAS",
+      "Composite Key (Ticker|Exchange)": "CRWD|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-09-20 16:28:13 CT",
       "__Prev_Next_Earnings_Date": "Mon Nov 24 2025 18:00:00 GMT-0600 (Central Standard Time)"
     },
@@ -1487,7 +1487,7 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "FIVE|XNAS",
+      "Composite Key (Ticker|Exchange)": "FIVE|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-08-28 19:26:04 CT",
       "__Prev_Next_Earnings_Date": "Mon Sep 01 2025 19:00:00 GMT-0500 (Central Daylight Time)"
     },
@@ -1508,13 +1508,13 @@
       "RevisionCount": 0,
       "WeekendAdjust (Y/N)": "Y",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "PFE|XNYS",
+      "Composite Key (Ticker|Exchange)": "PFE|NYSE",
       "LastCheckedAt (ISO8601)": "2025-08-28 19:26:04 CT",
       "__Prev_Next_Earnings_Date": "Sun Nov 02 2025 18:00:00 GMT-0600 (Central Standard Time)"
     },
     {
       "Ticker": "BMY",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Thu Oct 30 2025 00:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1535,7 +1535,7 @@
     },
     {
       "Ticker": "STZ",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Thu Oct 09 2025 00:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "Confirmed",
@@ -1556,7 +1556,7 @@
     },
     {
       "Ticker": "K",
-      "Exchange": "",
+      "Exchange": "XNYS",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "",
@@ -1571,13 +1571,13 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "K|",
+      "Composite Key (Ticker|Exchange)": "K|NYSE",
       "LastCheckedAt (ISO8601)": "2025-09-26T01:38:14.619Z",
       "__Prev_Next_Earnings_Date": ""
     },
     {
       "Ticker": "KDP",
-      "Exchange": "",
+      "Exchange": "XNAS",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "",
@@ -1592,13 +1592,13 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "KDP|",
+      "Composite Key (Ticker|Exchange)": "KDP|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-09-26T01:38:15.355Z",
       "__Prev_Next_Earnings_Date": ""
     },
     {
       "Ticker": "HRL",
-      "Exchange": "",
+      "Exchange": "XNYS",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "",
@@ -1613,13 +1613,13 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "HRL|",
+      "Composite Key (Ticker|Exchange)": "HRL|NYSE",
       "LastCheckedAt (ISO8601)": "2025-09-26T01:38:15.998Z",
       "__Prev_Next_Earnings_Date": ""
     },
     {
       "Ticker": "DLTR",
-      "Exchange": "",
+      "Exchange": "XNAS",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "",
       "Status (Confirmed|Estimated)": "",
@@ -1634,7 +1634,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "DLTR|",
+      "Composite Key (Ticker|Exchange)": "DLTR|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-09-26T01:38:16.559Z",
       "__Prev_Next_Earnings_Date": ""
     },
@@ -1655,13 +1655,13 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "Auto-added from CurrentHoldings",
-      "Composite Key (Ticker|Exchange)": "NVDA|XNAS",
+      "Composite Key (Ticker|Exchange)": "NVDA|NASDAQ",
       "LastCheckedAt (ISO8601)": "",
       "__Prev_Next_Earnings_Date": ""
     },
     {
       "Ticker": "IREN",
-      "Exchange": "",
+      "Exchange": "XNAS",
       "Next Earnings Date": "",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1676,13 +1676,13 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "Auto-added from CurrentHoldings",
-      "Composite Key (Ticker|Exchange)": "IREN|",
+      "Composite Key (Ticker|Exchange)": "IREN|NASDAQ",
       "LastCheckedAt (ISO8601)": "",
       "__Prev_Next_Earnings_Date": ""
     },
     {
       "Ticker": "WBA",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Thu Jan 08 2026 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1703,7 +1703,7 @@
     },
     {
       "Ticker": "PYPL",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Tue Oct 28 2025 00:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1724,7 +1724,7 @@
     },
     {
       "Ticker": "APA",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Wed Nov 05 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1745,7 +1745,7 @@
     },
     {
       "Ticker": "OXY",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Mon Nov 10 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1766,7 +1766,7 @@
     },
     {
       "Ticker": "FIVE",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Tue Dec 02 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1787,7 +1787,7 @@
     },
     {
       "Ticker": "CMG",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Oct 29 2025 00:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1808,7 +1808,7 @@
     },
     {
       "Ticker": "CLX",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Oct 29 2025 00:00:00 GMT-0500 (Central Daylight Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1829,7 +1829,7 @@
     },
     {
       "Ticker": "KR",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Dec 03 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1850,7 +1850,7 @@
     },
     {
       "Ticker": "RH",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Dec 10 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1871,7 +1871,7 @@
     },
     {
       "Ticker": "ADBE",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Tue Dec 09 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1892,7 +1892,7 @@
     },
     {
       "Ticker": "TGT",
-      "Exchange": "NYSE",
+      "Exchange": "XNYS",
       "Next Earnings Date": "Wed Nov 19 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1913,7 +1913,7 @@
     },
     {
       "Ticker": "INTC",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Wed Jan 28 2026 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1934,7 +1934,7 @@
     },
     {
       "Ticker": "CRWD",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Mon Nov 24 2025 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -1970,7 +1970,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "TSM|XNAS",
+      "Composite Key (Ticker|Exchange)": "TSM|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:06.798Z",
       "__Prev_Next_Earnings_Date": "Fri Oct 17 2025 00:00:00 GMT-0500 (Central Daylight Time)"
     },
@@ -1991,7 +1991,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "JPM|XNYS",
+      "Composite Key (Ticker|Exchange)": "JPM|NYSE",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:08.948Z",
       "__Prev_Next_Earnings_Date": "Tue Oct 14 2025 00:00:00 GMT-0500 (Central Daylight Time)"
     },
@@ -2012,7 +2012,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "PEP|XNYS",
+      "Composite Key (Ticker|Exchange)": "PEP|NYSE",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:10.066Z",
       "__Prev_Next_Earnings_Date": "Fri Oct 10 2025 00:00:00 GMT-0500 (Central Daylight Time)"
     },
@@ -2033,7 +2033,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "DAL|XNYS",
+      "Composite Key (Ticker|Exchange)": "DAL|NYSE",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:10.312Z",
       "__Prev_Next_Earnings_Date": "Thu Oct 09 2025 00:00:00 GMT-0500 (Central Daylight Time)"
     },
@@ -2054,7 +2054,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "DKNG|XNAS",
+      "Composite Key (Ticker|Exchange)": "DKNG|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:10.604Z",
       "__Prev_Next_Earnings_Date": "Fri Nov 07 2025 00:00:00 GMT-0600 (Central Standard Time)"
     },
@@ -2075,7 +2075,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "DVN|XNYS",
+      "Composite Key (Ticker|Exchange)": "DVN|NYSE",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:10.851Z",
       "__Prev_Next_Earnings_Date": "Wed Nov 05 2025 00:00:00 GMT-0600 (Central Standard Time)"
     },
@@ -2096,7 +2096,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "MTSI|XNAS",
+      "Composite Key (Ticker|Exchange)": "MTSI|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:11.118Z",
       "__Prev_Next_Earnings_Date": "Wed Nov 12 2025 00:00:00 GMT-0600 (Central Standard Time)"
     },
@@ -2117,7 +2117,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "ZS|XNAS",
+      "Composite Key (Ticker|Exchange)": "ZS|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:11.356Z",
       "__Prev_Next_Earnings_Date": "Fri Dec 05 2025 00:00:00 GMT-0600 (Central Standard Time)"
     },
@@ -2138,7 +2138,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "MNSO|XNAS",
+      "Composite Key (Ticker|Exchange)": "MNSO|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:11.620Z",
       "__Prev_Next_Earnings_Date": "Wed Dec 03 2025 00:00:00 GMT-0600 (Central Standard Time)"
     },
@@ -2159,7 +2159,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "TSLA|XNAS",
+      "Composite Key (Ticker|Exchange)": "TSLA|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:11.858Z",
       "__Prev_Next_Earnings_Date": "Wed Oct 22 2025 00:00:00 GMT-0500 (Central Daylight Time)"
     },
@@ -2180,7 +2180,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "BDX|XNYS",
+      "Composite Key (Ticker|Exchange)": "BDX|NYSE",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:12.090Z",
       "__Prev_Next_Earnings_Date": "Thu Nov 06 2025 00:00:00 GMT-0600 (Central Standard Time)"
     },
@@ -2201,7 +2201,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "GWRE|XNAS",
+      "Composite Key (Ticker|Exchange)": "GWRE|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:12.601Z",
       "__Prev_Next_Earnings_Date": "Thu Dec 04 2025 00:00:00 GMT-0600 (Central Standard Time)"
     },
@@ -2222,13 +2222,13 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "N",
       "Notes": "",
-      "Composite Key (Ticker|Exchange)": "CORT|XNAS",
+      "Composite Key (Ticker|Exchange)": "CORT|NASDAQ",
       "LastCheckedAt (ISO8601)": "2025-10-22T13:41:12.835Z",
       "__Prev_Next_Earnings_Date": "Wed Oct 29 2025 00:00:00 GMT-0500 (Central Daylight Time)"
     },
     {
       "Ticker": "ASML",
-      "Exchange": "NASDAQ",
+      "Exchange": "XNAS",
       "Next Earnings Date": "Wed Jan 28 2026 00:00:00 GMT-0600 (Central Standard Time)",
       "NextEarningsTime (BMO/AMC/TBD)": "TBD",
       "Status (Confirmed|Estimated)": "Estimated",
@@ -2264,7 +2264,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "",
       "Notes": "Auto-added from CurrentHoldings",
-      "Composite Key (Ticker|Exchange)": "AAPL|XNAS",
+      "Composite Key (Ticker|Exchange)": "AAPL|NASDAQ",
       "LastCheckedAt (ISO8601)": "",
       "__Prev_Next_Earnings_Date": ""
     },
@@ -2285,7 +2285,7 @@
       "RevisionCount": "",
       "WeekendAdjust (Y/N)": "",
       "Notes": "Auto-added from CurrentHoldings",
-      "Composite Key (Ticker|Exchange)": "CRWV|XNAS",
+      "Composite Key (Ticker|Exchange)": "CRWV|NASDAQ",
       "LastCheckedAt (ISO8601)": "",
       "__Prev_Next_Earnings_Date": ""
     }
